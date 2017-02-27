@@ -1,11 +1,17 @@
 <ul>
   <li class="{% if page.overview %}current{% endif %}">
-    <a href="/">Home</a>
+    <a href="/">HOME</a>
   </li>
   <li class="{% if page.url contains '/docs/' %}current{% endif %}">
-    <a href="/docs/home/">Docs</a>
+    <a href="/docs/home/">DOCUMENTATION</a>
   </li>
   <li class="{% if page.author %}current{% endif %}">
-    <a href="/news/">News</a>
+    <a href="/news/">NEWS</a>
   </li>  
+  <li class="{% if page.url contains '/community/' %}current{% endif %}">
+    <a href="/community/">COMMUNITY</a>
+  </li>
+  <li class="{% if page.url contains '/help/' %}current{% endif %}">
+    <a href="/help/">HELP</a>
+  </li>
 </ul>
