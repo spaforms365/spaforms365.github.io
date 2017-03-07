@@ -20,7 +20,17 @@
   - assets
   - migrations
 
-- title: Customization 2
+- title: Single Page Application
+  docs:
+  - templates
+  - includes
+  - permalinks
+  - pagination
+  - plugins
+  - themes
+  - extras
+
+- title: Components
   docs:
   - templates
   - includes
