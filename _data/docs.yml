@@ -7,8 +7,9 @@
   - structure
   - configuration
 
-- title: Drawing Surface
+- title: Design Form
   docs:
+  - drawingsurface
   - frontmatter
   - posts
   - drafts
