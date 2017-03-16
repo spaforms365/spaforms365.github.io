@@ -15,12 +15,12 @@ With SPA-FORMS-365 you can construct the form for SharePoint list in a web brows
 This include contains 5 parameters:
 
 <div class="note info">
-  <h5>When to consider SPA Forms</h5>
-  <ul>
-  <li>Need better looking or custom form</li>
-  <li>Want design it easy - as out-ot-box SharePoint UI does, ... and also <code>open source</code></li>
-  <li>Thinking about alternative to <code>InfoPath</code> forms</li>
-  </ul>
+<h5>When to consider SPA Forms</h5>
+<ul>
+<li>Need better looking or custom form</li>
+<li>Want design it easy - as out-ot-box SharePoint UI does, ... and also <code>open source</code></li>
+<li>Thinking about alternative to <code>InfoPath</code> forms</li>
+</ul>
 </div>
 
 When in doubt, use the <code>help</code> command to remind you of all available options and usage, it also works with the <code>new</code>, <code>build</code> and <code>serve</code> subcommands, e.g. <code>jekyll help new</code> or <code>jekyll help build</code>.
