@@ -4,15 +4,13 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such
-as getting your site up and running, creating and managing your content,
-customizing the way your site works and looks, deploying to various
-environments, and give you some advice on participating in the future
-development of Jekyll itself.
+## So what is SPA-FORMS-365, exactly?
 
-## So what is Jekyll, exactly?
+SPA-FORMS-365 is SharePoint Add-in. It converts hardcoded out-of-box SharePoint list's form into Single Page Application (SPA) executed on client side, in a web browser.
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template
+With SPA-FORMS-365 you can construct the form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. SPA-FORMS-365 transparently constructs SPA implementation for the new form on your behalf. Automatically scaffolded and provisioned SPA implementation can be directly published to use with the list at production.     
+
+ is an alternative UI for It takes a template
 directory containing raw text files in various formats, runs it through
 a converter (like [Markdown](https://daringfireball.net/projects/markdown/))
 and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and
