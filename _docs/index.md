@@ -10,7 +10,7 @@ SPA-FORMS-365 is SharePoint Add-in. It converts out-of-box Forms on SharePoint l
 
 ## How to use SPA Forms ?
 
-With SPA-FORMS-365 you can construct the form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. SPA Forms transparently builds project with SPA implementation source code for the new form on your behalf. Then automatically scaffolded and provisioned SPA implementation can be directly published to use with the list at production.  
+With SPA-FORMS-365 you can construct the form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. SPA-FORMS-365 transparently generates source code for SPA Form project on your behalf. Then automatically scaffolded and provisioned SPA Form project can be directly published to use with SharePoint list on production.  
 
 
 <div class="note info">
