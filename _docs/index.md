@@ -19,6 +19,9 @@ With SPA-FORMS-365 you can construct the form for SharePoint list in a web brows
   <p>Looking for alternative to InfoPath forms</p>
 </div>
 
+When in doubt, use the <code>help</code> command to remind you of all available options and usage, it also works with the <code>new</code>, <code>build</code> and <code>serve</code> subcommands, e.g. <code>jekyll help new</code> or <code>jekyll help build</code>.
+{: .note .info }
+
 If you come across anything along the way that we haven’t covered, or if you
 know of a tip you think others would find handy, please [file an
 issue]({{ site.repository }}/issues/new) and we’ll see about
