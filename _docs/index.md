@@ -13,18 +13,14 @@ SPA-FORMS-365 is SharePoint Add-in. It converts out-of-box Forms on SharePoint l
 With SPA-FORMS-365 you can construct the form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. SPA Forms transparently builds project with SPA implementation source code for the new form on your behalf. Then automatically scaffolded and provisioned SPA implementation can be directly published to use with the list at production.  
 
 This include contains 5 parameters:
-<div class="note info">
-* `url`
-* `max-width`
-* `file`
-* `alt`
-* `caption`
-</div>
+
 <div class="note info">
   <h5>When to consider SPA Forms</h5>
-* Need better looking or custom form
-* Want design it easy - as out-ot-box SharePoint UI does, ... and also <code>open source</code>
-* Thinking about alternative to <code>InfoPath</code> forms
+  <ol>
+    <li>Need better looking or custom form</li>
+    <li>Want design it easy - as out-ot-box SharePoint UI does, ... and also <code>open source</code></li>
+    <li>Thinking about alternative to <code>InfoPath</code> forms</li>
+  </ol>
 </div>
 
 When in doubt, use the <code>help</code> command to remind you of all available options and usage, it also works with the <code>new</code>, <code>build</code> and <code>serve</code> subcommands, e.g. <code>jekyll help new</code> or <code>jekyll help build</code>.
