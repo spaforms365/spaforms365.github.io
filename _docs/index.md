@@ -14,8 +14,8 @@ With SPA-FORMS-365 you can construct the form for SharePoint list in a web brows
 
 <div class="note info">
   <h5>When to consider SPA Forms</h5>
-  - Need in better looking or custom form
-  - Want create it as easy as out-ot-box SharePoint UI does, ... also <code>open source</code>
+  - Need better looking or custom form
+  - Want design it easy - as out-ot-box SharePoint UI does, ... and also <code>open source</code>
   - Thinking about alternative to <code>InfoPath</code> forms
 </div>
 
