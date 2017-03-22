@@ -6,15 +6,17 @@ redirect_from: /docs/index.html
 
 ## What is SPA-FORMS-365, exactly ?
 
-SPA-FORMS-365 is SharePoint Add-in. It converts out-of-box Forms on SharePoint list into Single Page Application (SPA) executed on client side, in a web browser. SPA is a key enabling environment to design a full-fledged application, containing custom workflows, various visual forms and data-storade device on top of a list item.  
+SPA Forms 365 is a SharePoint Add-in. Being activated on SharePoint list, the SPA Forms Add-in converts out-of-box list forms into Single Page Application (SPA) project executed on client side: in a web browser. SPA is enabling environment to design full-fledged application on top of SharePoint list form, containing custom workflows, various visual forms and utilizing out-of-box list item as data-storage device.  
 
 ## How to use SPA Forms ?
 
-With SPA-FORMS-365 you can construct the form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. SPA-FORMS-365 transparently generates source code for SPA Form project on your behalf. Then automatically scaffolded and provisioned SPA Form project can be directly published to use with SharePoint list on production.  
+For SharePoint user in visitor or contributor role, SPA Forms project natively replaces out-of-box list form with alternative page, delivering better visual appearance and enhanced built-in capabilities. 
+
+User in designer role can develop SPA form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. On design time, SPA Forms 365 transparently generates source code for SPA Form project on your behalf. Further that automatically scaffolded and provisioned SPA Form project can be directly published to use with SharePoint list on production.  
 
 
 <div class="note info">
-  <h5>When to consider SPA Forms</h5>
+  <h5>When to consider SPA Forms 365</h5>
   <ul>
     <li>Need better looking or custom form.</li>
     <li>Want design it as easy, as with out-ot-box SharePoint UI.</li>
