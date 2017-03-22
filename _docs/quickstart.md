@@ -5,9 +5,9 @@ permalink: /docs/quickstart/
 
 
 
-## Ensure SPA Forms 365 Add-in is added on SharePoint web site
+## Ensure SPA Forms 365 Add-in is available
 
-Go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA FORMS 365</code> app present. If you don't see the app at Site Contents page, then read and follow [Installation](/docs/installation) instructions.
+~SPA Forms 365 app must be added on SharePoint site before use with lists. To check if the app is available, go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA FORMS 365</code> app present. If you don't see the ![Image of AddIn](/img/365x32x32.PNG) app at Site Contents page, then follow [Installation](/docs/installation) instructions to deploy the app.
 
 ## Provision and configure SharePoint List
 
