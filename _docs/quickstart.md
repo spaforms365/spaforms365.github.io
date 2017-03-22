@@ -14,12 +14,12 @@ Go to <code>Site Contents</code> page on SharePoint site and verify that <code>S
 Create new out-of-box custom or tasks list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
 
 <div class="note warning">
-  <h5>For Office 365</h5>
+  <h5>For lists provisioned on Office 365</h5>
   <p>
     SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. You must explicitly enable ribbon on list with SPA Forms 365.
   </p>
   <p>
-    Open <code>Settings</code> page on your list and select <Advanced Settings> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
+    Open <code>Settings</code> page on your list and select <code>Advanced Settings</code> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
   </p>
 </div>
 
