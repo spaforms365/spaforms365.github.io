@@ -28,6 +28,9 @@ permalink: /docs/quickstart/
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
 
+## Build and Publish SPA Form
+
+~ tbd
 
 ## Next steps
 
