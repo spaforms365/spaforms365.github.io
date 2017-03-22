@@ -5,6 +5,27 @@ permalink: /docs/quickstart/
 
 
 
+## Ensure SPA Forms 365 Add-in is added on SharePoint web site
+
+Go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA FORMS 365</code> app present. If you don't see the app at Site Contents page, then read and follow [Installation](/docs/installation) instructions.
+
+## Provision and configure SharePoint List
+
+Create new out-of-box custom or tasks list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
+
+<div class="note warning">
+  <h5>For Office 365</h5>
+  <p>
+    SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. You must explicitly enable ribbon on list with SPA Forms 365.
+  </p>
+  <p>
+    Open <code>Settings</code> page on your list and select <Advanced Settings> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
+  </p>
+</div>
+
+Open <code>LIST</code> tab on ribbon at your SharePoint list. Find and press <code>SPA Forms 365</code> button.
+
+
 
 If you already have a full [Ruby](https://www.ruby-lang.org/en/downloads/) development environment with all headers and [RubyGems](https://rubygems.org/pages/download) installed (see Jekyll's [requirements](/docs/installation/#requirements/)), you can create a new Jekyll site by doing the following:
 
