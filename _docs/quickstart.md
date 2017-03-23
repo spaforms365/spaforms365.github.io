@@ -37,6 +37,15 @@ permalink: /docs/quickstart/
 <br/> 
 <br/>
 ~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Project publishing</code> panel and next click on <code>Publish</code> button on the panel.
+<div class="note">
+  <h5>ProTip™: Quick initial design for new form< project</h5>
+  <p>
+    SPA Forms designer can help quickly initialize newly created SPA project. There are options start with <code>Empty</code>, <code>All List Columns</code> or <code>Imported from GitHub</code> initial designs.
+    You should really
+    <a href="../templates/#code-snippet-highlighting">check out how to
+    do that</a> before you go any farther.
+  </p>
+</div>
 <br/>
 <br/>
 ~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Cancel</code> button to collapse panel. Next press <code>Cancel</code> button on ribbon to exit SPA Forms designer.
