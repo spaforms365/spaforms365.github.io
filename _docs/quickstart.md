@@ -33,8 +33,12 @@ permalink: /docs/quickstart/
 ~ Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Click on SharePoint list's <code>New</code> menu item and SPA Forms runtime will respond with warning message, that SPA project not found. Click on <code>Design project</code> link to open SPA Form designer.
 <br/>
 <br/>
-~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form. 
+~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
+<br/> 
+<br/>
 ~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Project publishing</code> panel and next click on <code>Publish</code> button on the panel.
+<br/>
+<br/>
 ~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Cancel</code> button to collapse panel. Next press <code>Cancel<code> button on ribbon to exit SPA Forms designer.
 
 ## Good to go now: try new custom SPA Form
