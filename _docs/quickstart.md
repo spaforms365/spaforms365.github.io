@@ -33,7 +33,7 @@ permalink: /docs/quickstart/
 ~ Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Click on SharePoint list's <code>new item</code> menu item and SPA Forms runtime will reply with warning message, that published SPA project was not found. Click on <code>Open Form Design project</code> link to open SPA Form designer.
 <br/>
 <br/>
-![Image of Design1](https://github.com/spaforms365/spaforms365.github.io/blob/master/img/SPAForms365Design1.png)
+![Image of Design1](/img/SPAForms365Design1.png)
 <br/>
 ~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
 <br/> 
