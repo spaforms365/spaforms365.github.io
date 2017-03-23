@@ -14,7 +14,7 @@ permalink: /docs/quickstart/
 ~ Create new out-of-box custom or tasks list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
 
 <div class="note warning">
-  <h5>For lists provisioned on Office 365</h5>
+  <h5>Note regarding SharePoint lists hosted on Office 365</h5>
   <p>
     SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. You must explicitly enable ribbon on list with SPA Forms 365.
   </p>
