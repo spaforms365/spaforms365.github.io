@@ -19,13 +19,19 @@ Before you start, make sure your system has the following:
 - [RubyGems](https://rubygems.org/pages/download)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (in case your system doesn't have them installed, which you can check by running `gcc -v` and `make -v` in your system's command line interface)
 
-#### Add SPA Forms 365 App on SharePoint site
+#### Apps Catalog
 
-#### Office Apps Catalog
+#### ~ Office Apps Catalog
 
-#### App Catalog at SharePoint Online 
+#### ~ App Catalog at SharePoint Online 
 
-#### App Catalog at on-premise SharePoint 
+#### ~ App Catalog at on-premise SharePoint 
+
+#### Deployment SPA Forms Installer on SharePoint site
+![Image of Design1](/img/form-addinstaller.png)
+#### Installing SPA Forms on SharePoint list
+
+#### Uninstalling SPA Forms off SharePoint list
 
 
 - [NodeJS](https://nodejs.org/), or another JavaScript runtime (for CoffeeScript support).
