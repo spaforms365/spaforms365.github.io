@@ -38,7 +38,10 @@ permalink: /docs/quickstart/
 ~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
 <br/> 
 <br/>
-~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Project publishing</code> panel and next click on <code>Publish</code> button on the panel.
+~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+<br/>
+<br/>
+![Image of Installer](/img/SPSForms365Publish.PNG)
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
