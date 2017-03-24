@@ -52,7 +52,7 @@ permalink: /docs/quickstart/
   </p>
 </div>
 
-~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Cancel</code> button to collapse panel. Next press <code>Cancel</code> button on ribbon to exit SPA Forms designer.
+~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
 <br/>
 <br/>
 ![Image of Published](/img/form-published.png)
