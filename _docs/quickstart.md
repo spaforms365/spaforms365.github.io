@@ -48,7 +48,7 @@ permalink: /docs/quickstart/
     SPA Forms designer can help quickly initialize newly created SPA project. There are options start with <code>Empty</code>, <code>All List Columns</code> or <code>Imported from GitHub</code> initial designs.
     You should really
     <a href="../templates/#code-snippet-highlighting">check out how to
-    do that</a> before you go any farther.
+    do that</a> before you go any further.
   </p>
 </div>
 <br/>
