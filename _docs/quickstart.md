@@ -56,11 +56,11 @@ permalink: /docs/quickstart/
 <br/>
 ![Image of Published](/img/form-published.png)
 
-## Good to go now: try new custom SPA Form
+## Good to go now: 
 
-Click <code>new item</code> on SharePoint list and published custom SPA Form shell open now.
+Click <code>new item</code> on SharePoint list and newly published custom SPA Form shell now open.
 
 
 ## Next steps
 
-Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.
+Building default SPA Form is just the first step. More to add here ...
