@@ -28,11 +28,11 @@ Before you start, make sure your system has the following:
 #### ~ App Catalog at on-premise SharePoint 
 
 #### Deployment SPA Forms Installer on SharePoint site
-![Image of Design1](/img/form-addinstaller.png)
-#### Installing SPA Forms on SharePoint list
-
-#### Uninstalling SPA Forms off SharePoint list
-
+![Image of Add Installer](/img/form-addinstaller.png)
+#### Activate SPA Forms on SharePoint list
+![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
+#### Remove SPA Forms off SharePoint list
+![Image of Remove Instance](/img/form-addinstaller.png)
 
 - [NodeJS](https://nodejs.org/), or another JavaScript runtime (for CoffeeScript support).
 - [Python 2.7](https://www.python.org/downloads/)
