@@ -32,7 +32,7 @@ Before you start, make sure your system has the following:
 #### Activate SPA Forms on SharePoint list
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
 #### Remove SPA Forms off SharePoint list
-![Image of Remove Instance](/img/form-remove.png)
+![Image of Remove Instance](/img/form-remove.PNG)
 
 - [NodeJS](https://nodejs.org/), or another JavaScript runtime (for CoffeeScript support).
 - [Python 2.7](https://www.python.org/downloads/)
