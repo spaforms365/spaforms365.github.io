@@ -41,7 +41,7 @@ permalink: /docs/quickstart/
 ~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
 <br/>
 <br/>
-![Image of Installer](/img/SPSForms365Publish.PNG)
+![Image of Publishing](/img/SPSForms365Publish.PNG)
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
