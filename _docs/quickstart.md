@@ -45,15 +45,17 @@ permalink: /docs/quickstart/
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
-    SPA Forms designer can help quickly initialize newly created SPA project. There are options start with <code>Empty</code>, <code>All List Columns</code> or <code>Imported from GitHub</code> initial designs.
+    SPA Forms designer can help quickly initialize newly created SPA project. There are options to start with <code>Empty Layout</code>, <code>Layout with all SharePoint List Columns</code> or <code>Layout imported from GitHub</code> initial designs.
     You should really
     <a href="../templates/#code-snippet-highlighting">check out how to
     do that</a> before you go any further.
   </p>
 </div>
-<br/>
-<br/>
+
 ~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Cancel</code> button to collapse panel. Next press <code>Cancel</code> button on ribbon to exit SPA Forms designer.
+<br/>
+<br/>
+![Image of Published](/img/form-published.png)
 
 ## Good to go now: try new custom SPA Form
 
