@@ -36,12 +36,6 @@ permalink: /docs/quickstart/
 ![Image of Design1](/img/SPAForms365Design1.png)
 <br/>
 ~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
-<br/> 
-<br/>
-~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
-<br/>
-<br/>
-![Image of Publishing](/img/form-publish.png)
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
@@ -51,7 +45,12 @@ permalink: /docs/quickstart/
     do that</a> before you go any further.
   </p>
 </div>
-
+~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+<br/>
+<br/>
+![Image of Publishing](/img/form-publish.png)
+<br/> 
+<br/>
 ~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
 <br/>
 <br/>
@@ -59,7 +58,7 @@ permalink: /docs/quickstart/
 
 ## Good to go now: try new custom SPA Form
 
-Click on SharePoint list's <code>New</code> menu item and custom SPA Form will open.
+Click <code>new item</code> on SharePoint list and published custom SPA Form shell open now.
 
 
 ## Next steps
