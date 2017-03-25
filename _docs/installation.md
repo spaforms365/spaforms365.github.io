@@ -4,7 +4,7 @@ permalink: /docs/installation/
 ---
 
 Full installation process for SPA Forms 365 Add-in is related to 3 various areas on SharePoint landscape:
-* [Step 1: Tell Jekyll to read in your collection](#step1)
+* [Step 1: Upload software distributive file <code>spaforms365.app</code> containing SPA Forms 365 Installer App into <code>SharePoint Apps Catalog</code>.](#step1)
 * [Step 2: Add your content](#step2)
 * [Step 3: Optionally render your collection's documents into independent files](#step3)
 
