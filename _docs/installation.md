@@ -4,8 +4,8 @@ permalink: /docs/installation/
 ---
 
 Full installation process for SPA Forms 365 Add-in is related to 3 various areas on SharePoint landscape:
-* [Step 1:](#step1) Upload software distributive file into <code>Apps Catalog</code>.
-* [Step 2:](#step2) Add <code>SPA Forms 365 Installer App</code> on desired <code>Web Site</code>.
+* [Step 1:](#step1) Upload software distributive file <code>spaforms365.app</code> into <code>Apps Catalog</code>. Normally this step is executed by SharePoint administrator to enable access to <code>SPA Forms 365 Installer App</code> for all other users.  
+* [Step 2:](#step2) Add <code>SPA Forms 365 Installer App</code> on desired <code>SharePoint Web Site</code>. 
 * [Step 3:](#step3) Activate instance of SPA Forms on desired <code>List</code>.
 
 ### Requirements
