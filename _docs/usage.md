@@ -9,7 +9,7 @@ Custom SPA Form project must be designed first and then published into runtime (
 <br/> 
 Whenewer changes with design are completed, SPA Form project can be <code>published</code> to update runtime model for end users. 
 
-* <b>Runtime model usage:<b>
+* <b>Runtime model usage:</b>
 At runtime (or production) time, SPA Form shows up instead of out-of-box forms. User can continue use any standard out-of-box UI controls (like context menus or ribbon buttons) relevant to SharePoint List Item.
 * <b>Design SPA Form project usage:</b>
 
