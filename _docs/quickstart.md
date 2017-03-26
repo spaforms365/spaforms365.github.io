@@ -46,6 +46,12 @@ permalink: /docs/quickstart/
   </p>
 </div>
 ~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+<div class="note warning">
+  <h5>Important Web Browser Compatibility Note:</h5>
+  <p>
+    You must use modern web browser, like <code>Google Chrome</code> or <code>Firefox</code> to be able accomplish project publishing. Supported <code>Microsoft IE-11</code> web browser is limited in ability to execute a very few UI features, including <code>Publishing</code>.
+  </p>
+</div>
 <br/>
 <br/>
 ![Image of Publishing](/img/form-publish.png)
