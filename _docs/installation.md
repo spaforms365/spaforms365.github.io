@@ -8,24 +8,21 @@ Full installation process for SPA Forms 365 Add-in is related to 3 various areas
 * [Step 2:](#step2) Add <code>SPA Forms 365 Installer App</code> on desired <code>SharePoint Web Site</code>. The Installer App should reside on web site, where target SharePoint List is located. The Installer App enables activation or removal of SPA Forms instances on any number of SharePoint Lists residing at the web site. Normally SharePoint user with Full Control level of access on web site can add Installer App on web site.  
 * [Step 3:](#step3) Activate <code>Instance of SPA Forms</code> on desired <code>SharePoint List</code>. To substitute out-of-box forms with SPA Form on SharePoint list, an instance of SPA Forms application should be activated on that list. A SharePoint user with Design level of access or higher can activate or deactivate SPA Forms instances. 
 
-### Requirements
+### Requirements & Compatibility
 
-Installing Jekyll should be straight-forward if all requirements are met.
-Before you start, make sure your system has the following:
-
-- GNU/Linux, Unix, or macOS
-- [Ruby](https://www.ruby-lang.org/en/downloads/) version 2.0 or above, including all development
-  headers
-- [RubyGems](https://rubygems.org/pages/download)
-- [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (in case your system doesn't have them installed, which you can check by running `gcc -v` and `make -v` in your system's command line interface)
+* SharePoint: software has been tested to run with on-premise versions of <code>SharePoint 2013 & 2016</code> and with Office 365 <code>SharePoint Online<code>.
+* Web Browsers: software has been tested for compatibility with <code>Chrome</code> and <code>IE-11</code>. 
 
 #### Step 1: Apps Catalog {#step1}
 ~ Upload software distributive file <code>spaforms365.app</code> containing SPA Forms 365 Installer App into <code>SharePoint Apps Catalog</code>.
 #### ~ Office Apps Catalog
-
+~ planned to be placed in a nearest future.
 #### ~ App Catalog at SharePoint Online 
-
+~ download software distributive file <code>spaforms365.app</code>. (TBD: provided hyperlink)
+~ follow guidelines outlined [this Microsoft article](https://support.office.com/en-us/article/Use-the-App-Catalog-to-make-custom-business-apps-available-for-your-SharePoint-Online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0) to upload distributive file into App Catalog.
 #### ~ App Catalog at on-premise SharePoint 
+~ download software distributive file <code>spaforms365.app</code>. (TBD: provided hyperlink)
+~ follow guidelines outlined [this Microsoft Technet article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file into App Catalog.
 
 #### Step 2: Deployment SPA Forms Installer on SharePoint site {#step2}
 ~ Add SPA Forms 365 Installer App on desired <code>SharePoint Web Site</code>.
