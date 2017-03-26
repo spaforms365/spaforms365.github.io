@@ -20,12 +20,18 @@ In order to upload SPA Forms 365 distributive file <code>spaforms365.app</code> 
 * <b>App Catalog at on premise SharePoint Farm:</b> download software distributive file <code>spaforms365.app</code>. (TBD: provide hyperlink) and follow guidelines outlined at [Microsoft Technet Article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file to the App Catalog.
 
 ### Step 2: Add SPA Forms 365 Installer App on SharePoint Site {#step2}
-SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to enable <code>SPA Form feature</code> on SharePoint Lists. Being added, the SPA Forms Installer App injects new button into SharePoint lists ribbon for <code>custom</code> and <code>tasks</code> list types. 
+SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to enable <code>SPA Form feature</code> on SharePoint Lists. Being added, the SPA Forms Installer App enables <code>Custom</code> and <code>Tasks</code> list types for <code>SPA Forms feature</code>. 
 <br/>
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
 * To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on the list. Upon completion of istallation process you are good to go to start using SPA Forms with the list.
+<div class="note warning">
+  <h5>Only Custom or Tasks List Types are supported for SPA Forms feature.</h5>
+  <p>
+    Currently only SharePoint List of <code>Custom</code> or <code>Tasks</code> can be used with SPA Forms feature. SPA Forms Installer App injects SPA Forms feature management button into <code>ribbon</code> for these list types. 
+  </p>
+</div>
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
 * To remove <code>instance</code> of SPA Forms off the SharePoint list: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>REMOVE</code> button to remove product instance off the list. Upon completion of removal process out-of-box forms functionality will be restored on the list.
 ![Image of Remove Instance](/img/form-remove.PNG)
