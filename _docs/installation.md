@@ -20,10 +20,21 @@ In order to upload SPA Forms 365 distributive file <code>spaforms365.app</code> 
 * <b>App Catalog at on premise SharePoint Farm:</b> download software distributive file <code>spaforms365.app</code>. (TBD: provide hyperlink) and follow guidelines outlined at [Microsoft Technet Article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file to the App Catalog.
 
 ### Step 2: Add SPA Forms 365 Installer App on SharePoint Site {#step2}
-SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to enable <code>SPA Form feature</code> on SharePoint Lists. Being added, the SPA Forms Installer App enables <code>Custom</code> and <code>Tasks</code> list types for <code>SPA Forms feature</code>. 
+SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to enable <code>SPA Form feature</code> management on <code>Custom</code> and <code>Tasks</code> Lists. 
+LIST tab on Ribbon for any List of these two types, exposes new <code>SPA Forms 365</code> button, provided by installed SPA Forms Installer App.
 <br/>
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
+<div class="note info">
+  <h5> There is no need to keep SPA Form 365 Installer App deployed on Site all the time</h5>
+  <p>
+    <code>SPA Forms Installer App</code> is needed only at a time of <code>SPA Forms feature</code> activation or removal. 
+    Being activated, <code>instance</code> of <code>SPA Forms feature</code> on SharePoint list is self-sufficient and independent. 
+  </p>
+  <p>
+    <code>SPA Forms Installer App</code> can be safely uninstalled off the SharePoint Site at any time. As a result the <code>SPA Forms 365</code> button will not be available on LIST tab on Ribbon of <code>Custom</code> and <code>Tasks</code> lists on site.  
+  </p>
+</div>
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
 * To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on the list. Upon completion of istallation process you are good to go to start using SPA Forms with the list.
 <br/>
