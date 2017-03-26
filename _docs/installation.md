@@ -20,8 +20,7 @@ In order to upload SPA Forms 365 distributive file <code>spaforms365.app</code> 
 * <b>App Catalog at on premise SharePoint Farm:</b> download software distributive file <code>spaforms365.app</code>. (TBD: provide hyperlink) and follow guidelines outlined at [Microsoft Technet Article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file to the App Catalog.
 
 ### Step 2: Add SPA Forms 365 Installer App on SharePoint Site {#step2}
-~ Add SPA Forms 365 Installer App on desired <code>SharePoint Web Site</code>.
-Form Design project</code> link to open SPA Form designer.
+SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to enable <code>SPA Form feature</code> on SharePoint Lists. Being added, the SPA Forms Installer App injects new button into SharePoint lists ribbon for <code>custom</code> and <code>tasks</code> list types. 
 <br/>
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
