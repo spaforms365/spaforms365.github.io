@@ -26,10 +26,22 @@ Form Design project</code> link to open SPA Form designer.
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
-* To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
+* To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on the list. Upon completion of istallation process you are good to go to start using SPA Forms with the list.
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
-* To remove <code>instance</code> of SPA Forms off the SharePoint list: open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>REMOVE</code> button to remove product instance on your list.
+* To remove <code>instance</code> of SPA Forms off the SharePoint list: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>REMOVE</code> button to remove product instance off the list. Upon completion of removal process out-of-box forms functionality will be restored on the list.
 ![Image of Remove Instance](/img/form-remove.PNG)
+<div class="note warning">
+  <h5>Preserve SPA Form project source code prior SPA Forms removal</h5>
+  <p>
+    SPA Form instance removal will delete everything: runtime code and any customizations made within source code for SPA Form project. To avoid loss of source code, you may need to preserve custom SPA Form project prior removal and save it into remote GitHub repository.   
+  </p>
+</div>
+<div class="note warning">
+  <h5>Use Case: SharePoint List deletion.</h5>
+  <p>
+    The whole SharePoint List can be deleted at any time. Such deletion will also effectively remove SPA Forms instance, including source code for SPA Form project. To avoid loss of source code, you may need to preserve custom SPA Form project prior removal and save it into remote GitHub repository. 
+  </p>
+</div>
 
 
-Now that you’ve got everything up-to-date and installed, let’s get to work!
+#### Now that you’ve got everything up-to-date and installed, let’s get to work!
