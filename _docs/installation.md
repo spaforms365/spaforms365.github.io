@@ -6,7 +6,7 @@ permalink: /docs/installation/
 Full installation process for SPA Forms 365 Add-in is related to 3 various areas on SharePoint landscape:
 * [Step 1:](#step1) Upload software distributive file <code>spaforms365.app</code> into <code>SharePoint Apps Catalog</code>. Normally this step is executed by SharePoint tenant or farm administrator to enable access to <code>SPA Forms 365 Installer App</code> for all other users.  
 * [Step 2:](#step2) Add <code>SPA Forms 365 Installer App</code> on desired <code>SharePoint Web Site</code>. The Installer App should reside on web site, where target SharePoint List is located. The Installer App enables activation or removal of SPA Forms instances on any number of SharePoint Lists residing at the web site. Normally SharePoint user with Full Control level of access on web site can add Installer App on web site.  
-* [Step 3:](#step3) Activate <code>Instance of SPA Forms</code> on desired <code>SharePoint List</code>. To substitute out-of-box forms with SPA Form on SharePoint list, an instance of SPA Forms application should be activated on that list. A SharePoint user with Design level of access or higher can activate or deactivate SPA Forms instances. 
+* [Step 3:](#step3) Activate <code>SPA Forms feature</code> on desired <code>SharePoint List</code>. To substitute out-of-box forms with SPA Form on SharePoint list, an instance of SPA Forms application should be activated on that list. A SharePoint user with Design level of access or higher can activate or deactivate SPA Forms instances. 
 
 ### Requirements & Compatibility
 
@@ -25,10 +25,10 @@ Form Design project</code> link to open SPA Form designer.
 <br/>
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
-### Step 3: Activate Instance of SPA Forms on SharePoint List {#step3}
-* Activate instance of SPA Forms on SharePoint List
+### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
+* Activate <code>instance</code> of SPA Forms on SharePoint List
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
-* Remove Instance of SPA Forms off the SharePoint list
+* Remove <code>instance</code> of SPA Forms off the SharePoint list
 ![Image of Remove Instance](/img/form-remove.PNG)
 
 
