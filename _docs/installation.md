@@ -26,13 +26,13 @@ LIST tab on Ribbon for any List of these two types, exposes new <code>SPA Forms 
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
 <div class="note info">
-  <h5> There is no need to keep SPA Form 365 Installer App deployed on Site all the time</h5>
+  <h5> No need to keep Installer App on Site all the time</h5>
   <p>
     <code>SPA Forms Installer App</code> is needed only at a time of <code>SPA Forms feature</code> activation or removal. 
-    Being activated, <code>instance</code> of <code>SPA Forms feature</code> on SharePoint list is self-sufficient and independent. 
+    Being activated, <code>instance of SPA Forms feature</code> on SharePoint list is self-sufficient and independent. 
   </p>
   <p>
-    <code>SPA Forms Installer App</code> can be safely uninstalled off the SharePoint Site at any time. As a result the <code>SPA Forms 365</code> button will not be available on LIST tab on Ribbon of <code>Custom</code> and <code>Tasks</code> lists on site.  
+    You may safely uninstall SPA Forms Installer App off the SharePoint Site at any time. As a result the <code>SPA Forms 365</code> button will not show up on LIST tab on Ribbon of <code>Custom</code> and <code>Tasks</code> lists on site.  
   </p>
 </div>
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
