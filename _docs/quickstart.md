@@ -49,11 +49,9 @@ permalink: /docs/quickstart/
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
-    You must use modern web browser, like <code>Google Chrome</code> or <code>Firefox</code> to be able accomplish project publishing. Supported <code>Microsoft IE-11</code> web browser is limited in ability to execute a very few UI features, including <code>Publishing</code>.
+    You must use modern web browser, like <code>Google Chrome</code> or <code>Firefox</code> to be able accomplish project publishing. Supported <code>Microsoft IE-11</code> web browser is limited in ability to execute a very few UI features, including <code>Project Publishing</code>.
   </p>
 </div>
-<br/>
-<br/>
 ![Image of Publishing](/img/form-publish.png)
 <br/> 
 <br/>
