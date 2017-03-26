@@ -11,7 +11,7 @@ permalink: /docs/quickstart/
 
 ## Provision and configure SharePoint List
 
-~ Create new out-of-box custom or tasks list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
+~ Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
 
 <div class="note warning">
   <h5>Note regarding SharePoint lists hosted on Office 365</h5>
