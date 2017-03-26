@@ -3,6 +3,16 @@ title: Basic Usage
 permalink: /docs/usage/
 ---
 
+Custom SPA Form project must be designed first and then published into runtime (production) model for end users. 
+<code>Design</code> and <code>Runtime</code> environments are fully <code>isolated</code> from each other. 
+User can safely modify and debug SPA Form project design with no risk to affect current runtime version on SPA form in use. 
+Whenewer changes with design are completed, SPA Form project can be <code>published</code> to update runtime model for end users. 
+
+* <b>Runtime</b> model usage:
+At runtime (or production) time, SPA Form shows up instead of out-of-box forms.  
+User can continue use any standard out-of-box UI controls (like context menus or ribbon buttons) relevant to SharePoint List Item.
+* <b>Design</b> SPA Form project usage:
+
 The Jekyll gem makes a `jekyll` executable available to you in your Terminal
 window. You can use this command in a number of ways:
 
