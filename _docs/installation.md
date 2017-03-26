@@ -10,8 +10,8 @@ Full installation process for SPA Forms 365 Add-in is related to 3 various areas
 
 ### Requirements & Compatibility
 
-* SharePoint: software has been tested to run with on-premise versions of <code>SharePoint 2013 & 2016</code> and with Office 365 <code>SharePoint Online<code>.
-* Web Browsers: software has been tested for compatibility with <code>Chrome</code> and <code>IE-11</code>. 
+* SharePoint: SPA Forms 365 software has been tested to run with on-premise versions of <code>SharePoint 2013 & 2016</code> and with <code>SharePoint Online on Office 365<code>.
+* Web Browsers: SPA Forms 365 software has been tested for compatibility with <code>Google Chrome</code> and <code>Microsoft IE-11</code>. 
 
 #### Step 1: Apps Catalog {#step1}
 ~ Upload software distributive file <code>spaforms365.app</code> containing SPA Forms 365 Installer App into <code>SharePoint Apps Catalog</code>.
@@ -19,10 +19,10 @@ Full installation process for SPA Forms 365 Add-in is related to 3 various areas
 ~ planned to be placed in a nearest future.
 #### ~ App Catalog at SharePoint Online 
 ~ download software distributive file <code>spaforms365.app</code>. (TBD: provided hyperlink)
-~ follow guidelines outlined [this Microsoft article](https://support.office.com/en-us/article/Use-the-App-Catalog-to-make-custom-business-apps-available-for-your-SharePoint-Online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0) to upload distributive file into App Catalog.
+~ follow guidelines outlined at [Microsoft Office Support Article](https://support.office.com/en-us/article/Use-the-App-Catalog-to-make-custom-business-apps-available-for-your-SharePoint-Online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0) to upload distributive file into App Catalog.
 #### ~ App Catalog at on-premise SharePoint 
 ~ download software distributive file <code>spaforms365.app</code>. (TBD: provided hyperlink)
-~ follow guidelines outlined [this Microsoft Technet article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file into App Catalog.
+~ follow guidelines outlined at [Microsoft Technet Article](https://technet.microsoft.com/en-us/library/fp161234.aspx#AddApps) to upload distributive file into App Catalog.
 
 #### Step 2: Deployment SPA Forms Installer on SharePoint site {#step2}
 ~ Add SPA Forms 365 Installer App on desired <code>SharePoint Web Site</code>.
