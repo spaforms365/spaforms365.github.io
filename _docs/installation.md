@@ -26,9 +26,9 @@ Form Design project</code> link to open SPA Form designer.
 <br/>
 ![Image of Add Installer](/img/form-addinstaller.png)
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
-* Activate <code>instance</code> of SPA Forms on SharePoint List
+* To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
-* Remove <code>instance</code> of SPA Forms off the SharePoint list
+* To remove <code>instance</code> of SPA Forms off the SharePoint list: open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>REMOVE</code> button to remove product instance on your list.
 ![Image of Remove Instance](/img/form-remove.PNG)
 
 
