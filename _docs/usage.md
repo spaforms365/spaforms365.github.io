@@ -5,8 +5,10 @@ permalink: /docs/usage/
 
 Custom SPA Form project must be designed first and then published into runtime (production) model for end users.
 <br/> 
+<br/>
 <code>Design</code> and <code>Runtime</code> environments are fully <code>isolated</code> from each other. User can safely modify and debug SPA Form project design with no risk to affect current runtime version on SPA form in use.
 <br/> 
+<br/>
 Whenewer changes with design are completed, SPA Form project can be <code>published</code> to update runtime model for end users. 
 
 * <b>Runtime model usage:</b>
