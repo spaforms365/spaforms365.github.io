@@ -27,9 +27,9 @@ SPA Forms 365 Installer App must be added on <code>SharePoint Web Site</code> to
 ### Step 3: Activate SPA Forms feature on SharePoint List {#step3}
 * To activate <code>instance</code> of SPA Forms on SharePoint List: open <code>LIST</code> tab on ribbon at the list and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on the list. Upon completion of istallation process you are good to go to start using SPA Forms with the list.
 <div class="note warning">
-  <h5>Only Custom or Tasks List Types are supported for SPA Forms feature.</h5>
+  <h5>Only Custom or Tasks Lists are supported for SPA Forms feature.</h5>
   <p>
-    Currently only SharePoint List of <code>Custom</code> or <code>Tasks</code> can be used with SPA Forms feature. SPA Forms Installer App injects SPA Forms feature management button into <code>ribbon</code> for these list types. 
+    Currently only <code>Custom</code> or <code>Tasks</code> SharePoint Lists are compatible with <code>SPA Forms feature</code>. SPA Forms Installer App injects custom <code>SPA Forms 365 button</code> into <code>ribbon</code> for these two list types. 
   </p>
 </div>
 ![Image of Activate Instance](/img/SPSForms365Installer1.PNG)
