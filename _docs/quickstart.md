@@ -7,11 +7,11 @@ permalink: /docs/quickstart/
 
 ## Ensure SPA Forms 365 Add-in is available
 
-~SPA Forms 365 app must be added on SharePoint site before use with lists. To check if the app is available, go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA FORMS 365</code> app present. If you don't see the ![Image of AddIn](/img/logo-2x.png) app at Site Contents page, then follow [Installation](/docs/installation) instructions to deploy the app.
+SPA Forms 365 app must be added on SharePoint site before use with lists. To check if the app is available, go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA FORMS 365</code> app present. If you don't see the ![Image of AddIn](/img/logo-2x.png) app at Site Contents page, then follow [Installation](/docs/installation) instructions to deploy the app.
 
 ## Provision and configure SharePoint List
 
-~ Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
+Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also use existing list and/or develop your list further at this time: add custom columns, etc. 
 
 <div class="note warning">
   <h5>Note regarding SharePoint lists hosted on Office 365</h5>
@@ -23,19 +23,19 @@ permalink: /docs/quickstart/
   </p>
 </div>
 
-~ Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
+Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
 <br/>
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
 
 ## Design and Publish custom SPA Form
 
-~ Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Click on SharePoint list's <code>new item</code> menu item and SPA Forms runtime will reply with warning message, that published SPA project was not found. Click on <code>Open Form Design project</code> link to open SPA Form designer.
+Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Click on SharePoint list's <code>new item</code> menu item and SPA Forms runtime will reply with warning message, that published SPA project was not found. Click on <code>Open Form Design project</code> link to open SPA Form designer.
 <br/>
 <br/>
 ![Image of Design1](/img/SPAForms365Design1.png)
 <br/>
-~ SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
+SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
@@ -45,17 +45,17 @@ permalink: /docs/quickstart/
     do that</a> before you go any further.
   </p>
 </div>
-~ For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+<br/> 
+<br/>
+![Image of Publishing](/img/form-publish.png)
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
     You must use modern web browser, like <code>Google Chrome</code> or <code>Firefox</code> to be able accomplish project publishing. Supported <code>Microsoft IE-11</code> web browser is limited in ability to execute a very few UI features, including <code>Project Publishing</code>.
   </p>
 </div>
-![Image of Publishing](/img/form-publish.png)
-<br/> 
-<br/>
-~ Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
+Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
 <br/>
 <br/>
 ![Image of Published](/img/form-published.png)
