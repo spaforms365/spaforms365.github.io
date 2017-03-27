@@ -13,6 +13,9 @@ When changes with design are completed, SPA Form project can be <code>published<
 
 ### Runtime model usage:
 At runtime (or production) time, SPA Form shows up instead of out-of-box forms. User can continue use any standard out-of-box UI controls (like context menus or ribbon buttons) relevant to SharePoint List Item.
+<br/> 
+<br/>
+![Image of Runtime](/img/form-runtime.png)
 ### Design SPA Form project usage:
 There are two available options to start SPA Forms designer and open SPA Form project:
 * Select existing item on a list and use either<code>Design Item context menu</code> or <code>Design Item button</code> located at ITEMS tab on ribbon. Selected Item will be linked to SPA Form Project and column values will be available during design time. 
