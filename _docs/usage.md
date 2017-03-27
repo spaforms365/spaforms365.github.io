@@ -11,15 +11,19 @@ Custom SPA Form project must be designed first and then published into runtime (
 <br/>
 Whenewer changes with design are completed, SPA Form project can be <code>published</code> to update runtime model for end users. 
 
-* <b>Runtime model usage:</b>
+### Runtime model usage:
 At runtime (or production) time, SPA Form shows up instead of out-of-box forms. User can continue use any standard out-of-box UI controls (like context menus or ribbon buttons) relevant to SharePoint List Item.
-* <b>Design SPA Form project usage:</b>
+### Design SPA Form project usage:
 <br/> 
 <br/>
 ![Image of Open Design](/img/form-open-design.png)
 <br/> 
 <br/>
 ![Image of Open Design](/img/form-design.png)
+### SPA Form project publishing into runtime model:
+<br/> 
+<br/>
+![Image of Publishing](/img/form-publish.png)
 
 The Jekyll gem makes a `jekyll` executable available to you in your Terminal
 window. You can use this command in a number of ways:
