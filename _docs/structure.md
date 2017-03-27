@@ -1,55 +1,43 @@
 ---
-title: Directory structure
+title: Product features
 permalink: /docs/structure/
 ---
 
-Jekyll is, at its core, a text transformation engine. The concept behind the
-system is this: you give it text written in your favorite markup language, be
-that Markdown, Textile, or just plain HTML, and it churns that through a layout
-or a series of layout files. Throughout that process you can tweak how you want
-the site URLs to look, what data gets displayed in the layout, and more. This
-is all done through editing text files; the static web site is the final
-product.
+### SPA Forms for SharePoint
+Technology features:
 
-A basic Jekyll site usually looks something like this:
+* Replaces standard forms interface for out-of-box SharePoint custom list
+* MVVM architecture with declarative binding (scaffolding: knockout & planned: angular2*)
+* Component-based architecture enabling development for large applications.
+* Embedded dynamic code on demand loading for large applications based on AMD.
+* Hosting for visual components on 2-diminsional drawing surface based on responsive grid.
+* Base library of system components rendering SharePoint out-of-box column types (Fabric UI)
+* Form lifecycle state-machine workflow enabled via Buttons-management component included into base library.
+* SPA is extensible via user-developed custom components.
 
-```sh
-.
-├── _config.yml
-├── _data
-|   └── members.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.md
-|   └── on-simplicity-in-technology.md
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
-|   └── 2009-04-26-barcamp-boston-4-roundup.md
-├── _sass
-|   ├── _base.scss
-|   └── _layout.scss
-├── _site
-├── .jekyll-metadata
-└── index.html # can also be an 'index.md' with valid YAML Frontmatter
-```
+SPA FORMS 365 Product features
 
-<div class="note info">
-  <h5>Directory structure of Jekyll sites using gem-based themes</h5>
-  <p>
-    Starting <strong>Jekyll 3.2</strong>, a new Jekyll project bootstrapped with <code>jekyll new</code> uses <a href="../themes/">gem-based themes</a> to define the look of the site. This results in a lighter default directory structure : <code>_layouts</code>, <code>_includes</code> and <code>_sass</code> are stored in the theme-gem, by default.
-  </p>
-  <br />
-  <p>
-     <a href="https://github.com/jekyll/minima">minima</a> is the current default theme, and <code>bundle show minima</code> will show you where minima theme's files are stored on your computer.
-  </p>
-</div>
+* Effective separation between production and design environments.
+* Enables build optimized and minified code for execution on production. (publishing)
+* Integrated web-based form design studio:
+* Graphical web-based form designer (design on top of alive form data).
+* Custom components management.
+* Web-based editors for components with code-syntax checks.
+* Built-in source control integration (GitHub & under development: TFS server).
+* Direct form & components code editing with any editor (notepad++)
+* Runtime and base components library updated on-demand with newer versions from GitHub-hosted open-source project*.
 
-An overview of what each of these does:
+### SPA Forms Portal
+* Search-technology-based user-centric forms consolidation solution
+* Personalized selection for user’s available forms
+* Personalized form-lifecycle tracking for user’s created form instances.
+* Cross domain forms consolidation is enabled for production (published) SPA Forms.
+
+### SPA Forms Workflows
+* Out-of-box SharePoint 2013 workflows are fully compatible
+* SPA Form to replace OOB workflow task form*
+* SPA Form custom component (activity) to implement state-machine workflows*
+* SPA Form custom component (activity) to implement “email form” workflow*
 
 <div class="mobile-side-scroller">
 <table>
