@@ -37,7 +37,7 @@ There are total six UI control buttons - <code>Submit</code>, <code>Save</code>,
 ### Design SPA Form project usage:
 There are two available options to start SPA Forms designer and open SPA Form project:
 <ul>
-<li> Select existing item on a list and use either<code>Design Item context menu</code> or <code>Design Item button</code> located at ITEMS tab on ribbon. Selected Item will stay linked to SPA Form Project at design time and column values will be accessible on form: similar to out-of-box Design or Edit forms. </li>
+<li> Select existing item on a list and use either<code>Design Item context menu</code> or <code>Design Item button</code> located at ITEMS tab on ribbon. Selected Item will stay linked to SPA Form Project at design time and column values will be accessible on form: similar to out-of-box Display or Edit forms. </li>
 <li> Open LIST tab on ribbon and use out-of-box dropwown option <code>Form Web Parts</code>. This case would be more closer modeling out-of-box New form. </li>
 </ul>
 
@@ -47,6 +47,7 @@ To start SPA Forms designer, user need to have at least <code>design</code> perm
 ![Image of Open Design](/img/form-open-design.png)
 <br/> 
 To exit SPA Form designer and return back to SharePoint list view, press button <code>Close</code> on ribbon.
+<br/>
 <br/>
 ![Image of Open Design](/img/form-design.png)
 <br/>
