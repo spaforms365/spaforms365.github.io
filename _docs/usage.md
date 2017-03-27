@@ -30,7 +30,7 @@ Embedded <code>workflow managing state</code> of SPA Form is illustrated below.
 <br/>
 ![Image of State Machine](/img/form-statemachine.png)
 <br/>
-There are total 6 control buttons - <code>Submit</code>,<code>Save</code>,<code>Close</code>,<code>Cancel</code>,<code>Update</code>,<code>Delete</code>, available for user and provided via <code>buttons</code> library component.   
+There are total 6 control buttons - <code>Submit</code>, <code>Save</code>, <code>Close</code>, <code>Cancel</code>, <code>Update</code> and <code>Delete</code>, available for user and provided via <code>buttons</code> library component.   
 
 ### Design SPA Form project usage:
 There are two available options to start SPA Forms designer and open SPA Form project:
