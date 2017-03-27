@@ -42,7 +42,7 @@ There are two available options to start SPA Forms designer and open SPA Form pr
 </ul>
 <br/>
 To start SPA Forms designer, user need to have at least <code>design</code> permission level assigned on List.  
-<br/> 
+ 
 <br/>
 ![Image of Open Design](/img/form-open-design.png)
 <br/> 
