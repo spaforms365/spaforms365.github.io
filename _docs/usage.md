@@ -22,13 +22,15 @@ Any requests to out-of-box New, Display or Edit forms will be redirected to SPA 
 ![Image of States Demo](/img/form-states-demo.gif)
 <br/> 
 <br/>
-SPA Form shows up along with associated<code>FORM</code> ribbon tab. 
-This ribbon tab carries set of control buttons, similar to out-of-box SharePoint form. 
+SPA Form shows up along with associated<code>FORM</code> ribbon tab. The ribbon tab carries set of control buttons, similar to out-of-box SharePoint form. 
+<br/>
 Set of controls on ribbon duplicates functionality of <code>buttons library component</code> placed on SPA Form surface and enabling the form state management.
 <br/>
-Embedded <code>workflow managing state</code> of SPA Form is illustrated below. There are 6 control buttons - <code>Submit</code>,<code>Save</code>,<code>Close</code>,<code>Cancel</code>,<code>Update</code>,<code>Delete</code>, available for user and provided via <code>buttons</code> library component.   
+Embedded <code>workflow managing state</code> of SPA Form is illustrated below. 
 <br/>
 ![Image of State Machine](/img/form-statemachine.png)
+<br/>
+There are total 6 control buttons - <code>Submit</code>,<code>Save</code>,<code>Close</code>,<code>Cancel</code>,<code>Update</code>,<code>Delete</code>, available for user and provided via <code>buttons</code> library component.   
 
 ### Design SPA Form project usage:
 There are two available options to start SPA Forms designer and open SPA Form project:
