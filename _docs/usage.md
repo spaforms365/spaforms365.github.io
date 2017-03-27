@@ -17,6 +17,9 @@ At runtime (or production) time, SPA Form shows up instead of out-of-box forms. 
 <br/> 
 <br/>
 ![Image of Open Design](/img/form-open-design.png)
+<br/> 
+<br/>
+![Image of Open Design](/img/form-design.png)
 
 The Jekyll gem makes a `jekyll` executable available to you in your Terminal
 window. You can use this command in a number of ways:
