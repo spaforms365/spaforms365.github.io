@@ -22,7 +22,7 @@ Any requests to out-of-box New, Display or Edit forms will be redirected to SPA 
 ![Image of States Demo](/img/form-states-demo.gif)
 <br/> 
 <br/>
-SPA Form shows up along with associated<code>FORM</code> ribbon tab. The ribbon tab carries set of control buttons, similar to out-of-box SharePoint form. 
+SPA Form comes along with associated<code>FORM</code> ribbon tab. The ribbon tab carries set of control buttons, similar to out-of-box SharePoint form. 
 <br/>
 Set of controls on ribbon duplicates functionality of <code>buttons library component</code> placed on SPA Form surface and enabling the form state management.
 <br/>
