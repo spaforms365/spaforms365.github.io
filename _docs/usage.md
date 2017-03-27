@@ -46,6 +46,7 @@ To start SPA Forms designer, user need to have at least <code>design</code> perm
 <br/>
 ![Image of Open Design](/img/form-open-design.png)
 <br/> 
+To exit SPA Form designer and return back to SharePoint list view, press button <code>Close</code> on ribbon.
 <br/>
 ![Image of Open Design](/img/form-design.png)
 <br/>
