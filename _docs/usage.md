@@ -17,7 +17,6 @@ Published SPA Form runtime model substitutes all out-of-box list forms.
 <br/> 
 User can continue use any standard out-of-box SharePoint UI controls (context menus, ribbon buttons, etc) to manipulate with SharePoint List Items.
 Any requests to out-of-box New, Display or Edit forms will be redirected to SPA Form.  
-<br/> 
 <br/>
 ![Image of States Demo](/img/form-states-demo.gif)
 <br/> 
@@ -27,6 +26,7 @@ SPA Form comes along with associated<code>FORM</code> ribbon tab. The ribbon tab
 Set of controls on ribbon duplicates functionality of <code>buttons library component</code> placed on SPA Form surface and enabling the form state management.
 <br/>
 Embedded <code>workflow managing state</code> of SPA Form is illustrated below. 
+<br/>
 <br/>
 ![Image of State Machine](/img/form-statemachine.png)
 <br/>
