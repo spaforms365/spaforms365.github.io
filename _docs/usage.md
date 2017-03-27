@@ -12,7 +12,7 @@ User can safely modify design and debug SPA Form project, with no risk to affect
 <br/>
 When changes with design are completed, SPA Form project can be <code>published</code> to update runtime model for end users. 
 
-### Work with runtime model:
+### Use SPA Form runtime model:
 Published SPA Form runtime model substitutes all out-of-box list forms.
 <br/> 
 User can continue use any standard out-of-box SharePoint UI controls (context menus, ribbon buttons, etc) to manipulate with SharePoint List Items.
