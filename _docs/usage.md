@@ -40,7 +40,7 @@ There are two available options to start SPA Forms designer and open SPA Form pr
 <li> Select existing item on a list and use either<code>Design Item context menu</code> or <code>Design Item button</code> located at ITEMS tab on ribbon. Selected Item will be linked to SPA Form Project and column values will be available during design time. </li>
 <li> Open LIST tab on ribbon and use out-of-box dropwown option <code>Form Web Parts</code>.</li>
 </ul>
-<br/>
+
 To start SPA Forms designer, user need to have at least <code>design</code> permission level assigned on List.  
  
 <br/>
