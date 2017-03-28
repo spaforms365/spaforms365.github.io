@@ -1,7 +1,6 @@
 ---
 title: Configuration
 permalink: /docs/configuration/
-published: false
 ---
 
 Jekyll allows you to concoct your sites in any way you can dream up, and it’s
