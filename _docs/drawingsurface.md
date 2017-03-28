@@ -3,7 +3,7 @@ title: Drawing Surface
 permalink: /docs/drawingsurface/
 ---
 
-![Image of State Machine](/img/form-responsivegrid.png)
+![Image of Responsive Grid](/img/form-responsivegrid.gif)
 
 The front matter is where Jekyll starts to get really cool. Any file that
 contains a [YAML](http://yaml.org/) front matter block will be processed by
