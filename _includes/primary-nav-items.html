@@ -3,7 +3,7 @@
     <a href="/">HOME</a>
   </li>
   <li class="{% if page.url contains '/docs/' %}current{% endif %}">
-    <a href="/docs/home/">DOCUMENTATION</a>
+    <a href="/docs/home/">DOCS</a>
   </li>
   <li class="{% if page.author %}current{% endif %}">
     <a href="/news/">NEWS</a>
@@ -13,5 +13,8 @@
   </li>
   <li class="{% if page.url contains '/help/' %}current{% endif %}">
     <a href="/help/">HELP</a>
+  </li>
+  <li>
+    <a href="{{ site.repository }}"><span class="hide-on-mobiles">View on </span>GitHub</a>
   </li>
 </ul>
