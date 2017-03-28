@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## What is SPA-FORMS-365, exactly ?
+## What is SPA Forms 365, exactly ?
 
 SPA Forms 365 is a SharePoint Add-in. Being activated on SharePoint list, the SPA Forms converts out-of-box list forms into Single Page Application (SPA) project executed on client side: in a web browser. SPA is enabling environment to design full-fledged application on top of SharePoint list form, containing custom workflows, various visual forms and utilizing out-of-box list item as data-storage device.  
 
