@@ -56,7 +56,8 @@ For quick start we won't proceed with any design modifications and will just pub
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
-    You must use modern web browser, like <code>Google Chrome</code>, <code>Microsoft Edge</code> or <code>Firefox</code> to be able accomplish project publishing. Supported <code>Microsoft IE-11</code> web browser is limited in ability to execute a very few UI features, including <code>Project Publishing</code>.
+    You must use modern web browser, like <code>Google Chrome</code>, <code>Microsoft Edge</code> or <code>Firefox</code> to be able accomplish project publishing. 
+    Supported <code>Microsoft IE-11</code> web browser can't support a few SPA Forms 365 UI features, including <code>Project Publishing</code>.
   </p>
 </div>
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
