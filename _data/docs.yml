@@ -9,6 +9,8 @@
 
 - title: Design Form
   docs:
+  - designer-overview
+  - designer-layout  
   - drawingsurface
   - frontmatter
   - posts

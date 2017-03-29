@@ -1,5 +1,5 @@
 ---
-title: Drawing Surface
+title: Drawing Surface 2
 permalink: /docs/drawingsurface/
 ---
 
