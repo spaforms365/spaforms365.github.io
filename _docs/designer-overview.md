@@ -3,4 +3,4 @@ title: Designer Environment
 permalink: /docs/designer-overview/
 ---
 
-![Image of Designer Overview](/img/form-designer2.gif)
+![Image of Designer Overview](/img/form-designer3.gif)
