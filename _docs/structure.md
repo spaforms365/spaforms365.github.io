@@ -17,7 +17,7 @@ permalink: /docs/structure/
 #### Design environment features {#environment}
 
 * SPA Form project consists of a set of source code files at design time. Source code must be published into runtime model to serve end users at production. SPA Form Designer provides fully isolated from each other <code>Design</code> and <code>Runtime</code> environments. User can safely modify design and debug SPA Form project, with no risk to affect current (in use) runtime version of SPA form model. Provided publishing process supports source code build optimizaton and minification for execution on production.
-* SPA Form Designer provides full-fledged form <b>[design studio environment](/docs/designer-overview/){:target="_blank"}</b>. Enviroment enables components source code editing with syntax checks, interactive visual design and form publishing in a web browser. 
+* SPA Form Designer provides full-fledged form <b>[design studio environment](/docs/designer-overview/)</b>. Enviroment enables components source code editing with syntax checks, interactive visual design and form publishing in a web browser. 
 * SPA Form Designer supports interactive SPA project hierarchy development including custom components management. Designer enables built-in version control support and source control integration with GitHub. 
 * SPA Forms Designer provides convenience direct access to SPA Form project source code files for editing with third party editors, like notepad++ or Visual Studio Code.
 * SPA Forms runtime and system components library automatically updated on-demand with newer versions from GitHub-hosted open-source project*.
