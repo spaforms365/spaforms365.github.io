@@ -38,6 +38,4 @@ To remotely browse SPA Form project source folder on SharePoint server with Wind
     In the meantime only <code>Internet Explorer</code> enables remote connectivity feature. You may (recommended !) routinely use modern web browser (like Google Chrome or Microsoft Edge), and use Internet Explorer occasionally - just to open project source code folder in Windows Explorer.
   </p>
 </div>
-<br/>
-<br/>
 To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon. 
