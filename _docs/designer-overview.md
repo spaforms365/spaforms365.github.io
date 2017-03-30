@@ -31,7 +31,13 @@ To save both: template and model on SharePoint server, press <code>Save</code> b
 Current source for a whole component (including template, model and dependencies) can be saved as a new <code>version</code> into remote <code>GitHub</code> repository. Use <code>Version Control</code> button on Ribbon to access <code>Versions History</code> panel to manage component versions. 
 <br/>
 <br/>
-To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. 
+To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors. 
+<div class="note warning">
+  <h5>Explore Files enabled only for Internet Explorer web browser.</h5>
+  <p>
+    In the meantime only <code>Internet Explorer</code> enables remote connectivity feature. You may (recommended !) routinely use modern web browser (like Google Chrome or Microsoft Edge), and use Internet Explorer occasionally - just to open project source code folder in Windows Explorer.
+  </p>
+</div>
 <br/>
 <br/>
 To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon. 
