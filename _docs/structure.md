@@ -1,5 +1,5 @@
 ---
-title: Product features
+title: Concepts and Features
 permalink: /docs/structure/
 ---
 
