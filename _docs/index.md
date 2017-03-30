@@ -15,7 +15,7 @@ For SharePoint Visitor or Contributor, SPA Forms project natively replaces out-o
 User in designer role can develop SPA form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. 
 <br/>
 <br/>
-On design time, SPA Forms 365 transparently generates source code for SPA Form project on your behalf. Further that automatically scaffolded and provisioned SPA Form project can be directly published to use with SharePoint list on production.  
+Interactively designed form, automatically generates source code for SPA Form project on your behalf. Further that automatically scaffolded and provisioned SPA Form project can be directly published to use with SharePoint list on production.  
 
 
 <div class="note info">

@@ -11,13 +11,12 @@ Technology features:
 * SPA Form <code>Designer</code> enables visual form layout design, transparently rendered into SPA project source code. Drawing surface of the form layout is based on 2-diminsional <code>responsive grid</code>, hosting on it's cells other library or custom components. When Developer interactively places Columns of SharePoint ListItem on drawing surface, Designer picks rendering library component for that column-type and injects component into hierarchy of SPA Forms project. 
 * Visual appearance of SPA Form layouts and library of system components is powered with <b>[Office UI Fabric](https://dev.office.com/fabric){:target="_blank"}</b> front-end framework, ensuring building experiences that fit seamlessly into Office and Office 365.
 * SPA Form Designer helps manage SPA Form project and makes it extensible via user-developed custom components. Designer provides <code>scaffolding</code> support for newly creating <code>custom components</code>, reusing system library components as a base 'class'. Custom component basically is Knockout component with extended <code>metadata</code>. SPA Form Designer uses metadata when injects component into hierarchical project model and to ensure component's external dependencies - like list columns, workflows, etc.    
-* SPA Form has overall lifecycle defined as state-machine workflow and enabled via <code>buttons</code> component included into system library.
+* SPA Form has built-in overall lifecycle defined as state-machine workflow and enabled via <code>buttons</code> component included into system library. 
 
 
 SPA FORMS 365 Product features
 
-* Effective separation between production and design environments.
-* Enables build optimized and minified code for execution on production. (publishing)
+* At design time, custom SPA Form project is a set of source code files. Source code should be published into runtime model serving end users at production. SPA Form Designer provides fully isolated from each other <code>Design</code> and <code>Runtime</code> environments. User can safely modify design and debug SPA Form project, with no risk to affect current (in use) runtime version of SPA form model. Provided publishing process supports source code build optimizaton and minification for execution on production.
 * Integrated web-based form design studio:
 * Graphical web-based form designer (design on top of alive form data).
 * Custom components management.
