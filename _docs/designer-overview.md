@@ -22,7 +22,7 @@ The <code>HTML Layout</code> represents MVVM model visualization at runtime and 
 During development code changes are stored <code>in memory</code> and either automatically visualized at HTML Layout window or can be forceavable refreshed by clicking at <code>Run</code> button on Ribbon.
 <br/>
 <br/>
-<code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently in focus. 
+<code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently <code>in focus</code>. 
 <br/>
 <br/>
 To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
