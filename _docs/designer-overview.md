@@ -6,7 +6,7 @@ permalink: /docs/designer-overview/
 SPA Forms project is a <code>Single Page Application</code> (SPA) based on [Knockout](http://knockoutjs.com/documentation/introduction.html){:target="_blank"} data model.
 <br/> 
 SPA Forms project internally structured as <code>hierarchy</code> of a self-contained and reusable chunks: <code>components</code>.
-This pattern is beneficial for large applications, because it <i>simplifies development</i> through clear organization and encapsulation, and helps to <i>improve runtime performance</i> by incrementally loading your application code as needed.
+This pattern is beneficial for large applications, because it <b>simplifies development</b> through clear organization and encapsulation, and helps to <b>improve runtime performance</b> by incrementally loading your application code as needed.
 <br/>
 <br/>
 SPA Forms 365 Designer is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> on hierarchy of SPA Form project. Each Designer page appears as an individual <code>TAB</code> on Ribbon. 
