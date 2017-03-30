@@ -11,7 +11,7 @@ Technology features:
 * SPA Form <code>Designer</code> enables visual form layout design, transparently rendered into SPA project source code. Drawing surface of the form layout is based on 2-diminsional <code>responsive grid</code>, hosting on it's cells other library or custom components. When Developer interactively places Columns of SharePoint ListItem on drawing surface, Designer picks rendering library component for that column-type and injects component into hierarchy of SPA Forms project. 
 * Visual appearance of SPA Form layouts and library of system components is powered with <b>[Office UI Fabric](https://dev.office.com/fabric){:target="_blank"}</b> front-end framework, ensuring building experiences that fit seamlessly into Office and Office 365.
 * SPA Form Designer helps manage SPA Form project and makes it extensible via user-developed custom components. Designer provides <code>scaffolding</code> support for newly creating custom components, reusing system library components as a base 'class'. Custom component basically is Knockout component with extended metadata. SPA Form Designer uses metadata when injects component into hierarchical project model and to ensure component's external dependencies - like list columns, workflows, etc.    
-* Form lifecycle state-machine workflow enabled via Buttons-management component included into base library.
+* SPA Form has overall lifecycle defined as state-machine workflow and enabled via <code>buttons</code> component included into system library.
 
 
 SPA FORMS 365 Product features
