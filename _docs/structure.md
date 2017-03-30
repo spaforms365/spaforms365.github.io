@@ -4,7 +4,7 @@ permalink: /docs/structure/
 ---
 
 ### SPA Forms for SharePoint
-#### Technology features:
+#### Technology features {#technology}
 
 * SPA Forms converts out-of-box list forms into <code>Single Page Application</code> (SPA) Forms project executed on client side: in a web browser.  SPA is a great environment to design full-fledged application on top of SharePoint list form, containing custom workflows, various visual forms and utilizing out-of-box list item as data-storage device.
 * SPA Forms project's SPA is based on <b>[Knockout](http://knockoutjs.com/documentation/introduction.html){:target="_blank"}</b> <code>MVVM</code> data model. The project structured as hierarchy of a self-contained and reusable chunks: <code>components</code>. This pattern is beneficial for large applications, because it simplifies development through clear organization and encapsulation, and helps to improve runtime performance by incrementally loading (via <code>AMD</code>) application code as needed.
@@ -14,12 +14,12 @@ permalink: /docs/structure/
 * SPA Form has built-in overall lifecycle defined at <b>[state-machine workflow](/docs/usage/#formstates){:target="_blank"}</b> and enabled via <code>buttons</code> component included into system library. 
 
 
-#### Design environment features
+#### Design environment features {#environment}
 
 * SPA Form project consists of a set of source code files at design time. Source code must be published into runtime model to serve end users at production. SPA Form Designer provides fully isolated from each other <code>Design</code> and <code>Runtime</code> environments. User can safely modify design and debug SPA Form project, with no risk to affect current (in use) runtime version of SPA form model. Provided publishing process supports source code build optimizaton and minification for execution on production.
 * SPA Form Designer provides full-fledged form <b>[design studio environment](/docs/designer-overview/){:target="_blank"}</b>. Enviroment enables components source code editing with syntax checks, interactive visual design and form publishing in a web browser. 
 * SPA Form Designer supports interactive SPA project hierarchy development including custom components management. Designer enables built-in version control support and source control integration with GitHub. 
-* SPA Forms Designer provides convenience direct access to SPA Form project source code files for editing with any third party editors, like notepad++ or Visual Stydio Code.
+* SPA Forms Designer provides convenience direct access to SPA Form project source code files for editing with third party editors, like notepad++ or Visual Studio Code.
 * SPA Forms runtime and system components library automatically updated on-demand with newer versions from GitHub-hosted open-source project*.
 
 ### SPA Forms Portal
