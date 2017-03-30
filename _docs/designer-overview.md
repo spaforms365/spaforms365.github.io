@@ -33,7 +33,7 @@ Current source for a whole component (including template, model and dependencies
 <br/>
 To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors. 
 <div class="note warning">
-  <h5>Explore Files enabled only for Internet Explorer web browser.</h5>
+  <h5>Explore Files works only with Internet Explorer.</h5>
   <p>
     In the meantime only <code>Internet Explorer</code> enables remote connectivity feature. You may (recommended !) routinely use modern web browser (like Google Chrome or Microsoft Edge), and use Internet Explorer occasionally - just to open project source code folder in Windows Explorer.
   </p>
