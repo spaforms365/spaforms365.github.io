@@ -13,4 +13,7 @@ To design and debug component, developer can use Ribbon to toggle up to 3 editor
 <br/>
 ![Image of Designer Overview](/img/form-designer3.gif)
 <br/>
-<code>HTML Layout</code> editor additionally provides developer with complimentary visual editing option for HTML Template. Use <code>Grid</code> button on Ribbon to toggle <code>HTML Layout</code> editor between graphical design and visualization modes. 
+The <code>HTML Template</code> & <code>HTML Model</code> are full-fledged editors, powered with <b>[Ace code editor](https://ace.c9.io/#nav=about){:target="_blank"}</b>. These editors are matching features and performance of native editors such as Sublime, Vim and TextMate. 
+<br/>
+<br/>
+<code>HTML Layout</code> represents MVVM model visualization at runtime and provides complimentary interactive visual editing support for HTML Template. The <code>Grid</code> button on Ribbon toggles <code>HTML Layout</code> editor between graphical design and visualization modes. 
