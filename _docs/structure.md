@@ -8,8 +8,8 @@ Technology features:
 
 * SPA Forms converts out-of-box list forms into <code>Single Page Application</code> (SPA) Forms project executed on client side: in a web browser.  SPA is a great environment to design full-fledged application on top of SharePoint list form, containing custom workflows, various visual forms and utilizing out-of-box list item as data-storage device.
 * SPA Forms project's SPA is based on <b>[Knockout](http://knockoutjs.com/documentation/introduction.html){:target="_blank"}</b> <code>MVVM</code> data model. The project structured as hierarchy of a self-contained and reusable chunks: components. This pattern is beneficial for large applications, because it simplifies development through clear organization and encapsulation, and helps to improve runtime performance by incrementally loading (via <code>AMD</code>) application code as needed.
-* Hosting for visual components on 2-diminsional drawing surface based on responsive grid.
-* Base library of system components rendering SharePoint out-of-box column types (Fabric UI)
+* SPA Form <code>Designer</code> enables visual layout design, transparently rendered into SPA project source code. Drawing surface of SPA Form layout is based on 2-diminsional responsive grid, hosting on cells other library or custom components. When Developer interactively places Columns of SharePoint ListItem on drawing surface, Designer takes rendering library component for that column-type and injects component into SPA Forms project. 
+* Visual appearance for SPA Form layout and library of system components is based on <b>[Office UI Fabric](https://dev.office.com/fabric){:target="_blank"}</b> front-end framework, ensuring building experiences that fit seamlessly into Office and Office 365.
 * Form lifecycle state-machine workflow enabled via Buttons-management component included into base library.
 * SPA is extensible via user-developed custom components.
 
