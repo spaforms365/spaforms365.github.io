@@ -27,7 +27,7 @@ SPA Form comes along with associated<code>FORM</code> ribbon tab. The ribbon tab
 Set of controls on ribbon exposes (duplicates) base functionality of <code>buttons</code> library component placed on surface of SPA Form. This component enables SPA Form state management.
 <br/>
 <br/>
-Diagram of embedded state management <code>workflow</code> for SPA Form is illustrated below. 
+Diagram of embedded state management <code>workflow</code> for SPA Form is illustrated below.  {#formstates}
 <br/>
 <br/>
 ![Image of State Machine](/img/form-statemachine.png)
