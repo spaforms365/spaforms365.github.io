@@ -10,7 +10,7 @@ SPA Forms 365 is a SharePoint Add-in. When activated on SharePoint list, the SPA
 
 ## How to use SPA Forms ?
 
-For SharePoint Visitor or Contributor, SPA Forms project natively replaces out-of-box list form with alternative page, delivering better visual appearance and custom functionality. 
+For SharePoint Visitor or Contributor, SPA Forms project natively replaces out-of-box list form with alternative page, delivering better visual appearance and custom functionality. [View in action &rarr;](/docs/usage/#runtime)
 
 User in designer role can develop SPA form for SharePoint list in a web browser, similar to user experience provided by SharePoint out-of-box. 
 <br/>
