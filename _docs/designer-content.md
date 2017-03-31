@@ -3,8 +3,8 @@ title: Placing Content
 permalink: /docs/designer-content/
 ---
 
-![Image of Responsive Grid](/img/form-placingcomponents.gif)
+![Image of Placing Components](/img/form-placingcomponents.gif)
 <br/>
 <br/>
-![Image of Responsive Grid](/img/form-placinghtml.gif)
+![Image of Placing HTML](/img/form-placinghtml.gif)
 
