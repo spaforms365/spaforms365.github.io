@@ -10,9 +10,9 @@ permalink: /docs/designer-project/
 <br/>
 <br/>
 Newly created SPA Form project containsthe fooloving 3 files in Design folder: 
-* <code>project.js</code>
-* <code>viewmodel.html</code>
-* <code>viewmodel.js</code>
+* <code>project.js</code> is automatically managed by SPA Forms Designer. The file contains registration info for custom components and project external dependencies - like SharePoint columns or workflow definitions.
+* <code>viewmodel.html</code> is HTML template for the root component at SPA Form project hierarchy.
+* <code>viewmodel.js</code> is a Javascript model for the root component.
 
 SPA Forms Designer environment supports various aspects of SPA project management, such as initial setup, dependencies tracking, version control, import/export, etc.
 
