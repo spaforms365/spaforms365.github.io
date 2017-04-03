@@ -21,3 +21,6 @@ You can now render the list of members in a template:
 </ul>
 {% endraw %}
 ```
+{% highlight html %}
+<input type="text" data-bind="textInput: mytitle"> 
+{% endhighlight %}
