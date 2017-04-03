@@ -26,5 +26,6 @@ You can now render the list of members in a template:
 {% endhighlight %}
 
 {% highlight javascript %}
+// +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 {% endhighlight %}
