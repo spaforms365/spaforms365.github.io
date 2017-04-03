@@ -24,3 +24,7 @@ You can now render the list of members in a template:
 {% highlight html %}
 <input type="text" data-bind="textInput: mytitle"> 
 {% endhighlight %}
+
+{% highlight javascript %}
+this.mytitle = ko.observable().extend({ listItem: "Title" });
+{% endhighlight %}
