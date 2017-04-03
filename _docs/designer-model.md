@@ -8,6 +8,14 @@ permalink: /docs/designer-model/
 You can now render the list of members in a template:
 
 ```html
+<input type="text" data-bind="textInput: mytitle">
+```
+
+```javascript
+this.mytitle = ko.observable().extend({ listItem: "Title" });
+```
+
+```html
 <div class="ms-Grid">
     <div class="ms-Grid-row">
         <div class="ms-u-lg12 ms-u-md12 ms-u-sm12 ms-Grid-col">
@@ -28,11 +36,3 @@ define([ 'text!./viewmodel.html'], function( htmlString) {
 });
 ```
 
-{% highlight html %}
-<input type="text" data-bind="textInput: mytitle"> 
-{% endhighlight %}
-
-{% highlight javascript %}
-// +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
-this.mytitle = ko.observable().extend({ listItem: "Title" });
-{% endhighlight %}
