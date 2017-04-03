@@ -3,7 +3,7 @@ title: Form Model
 permalink: /docs/designer-model/
 ---
 
-### Text box two-ways binding to SharePoint column
+### Two-ways binding to SharePoint column
 
 Two-ways binding outlined at <b>[Knockout](http://knockoutjs.com/documentation/textinput-binding.html){:target="_blank"}</b> documentation as following:  the <code>textInput</code> binding links a text box <code>input</code> or text area <code>textarea</code> with a viewmodel property, providing two-way updates between the viewmodel property and the element’s value. Unlike the <code>value</code> binding,<code>textInput</code> provides instant updates from the DOM for all types of user input, including autocomplete, drag-and-drop, and clipboard events.
 <br/>
@@ -15,7 +15,7 @@ Add new <code>input</code> HTML control on SPA Form template and use <code>textI
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
-Extend SPA Form viewmodel with new <code>mytitle</code> property. New property is an observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
+Add <code>mytitle</code> property to SPA Form viewmodel. New property is an observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
