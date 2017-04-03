@@ -10,6 +10,7 @@ Two-ways binding outlined at <b>[Knockout](http://knockoutjs.com/documentation/t
 <br/>
 SPA Forms runtime provides binding extension to associate SharePoint columns with viewmodel property. SharePoint default content type on List is known (registerd) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html){:target="_blank"}</b> to augment observables for SharePoint data association. 
 <br/>
+<br/>
 Add new <code>input</code> HTML control on SPA Form template and use <code>textInput</code> binding to <code>mytitle</code> member of SPA Form viewmodel. 
 ```html
 <input type="text" data-bind="textInput: mytitle">
