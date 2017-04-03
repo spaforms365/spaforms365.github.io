@@ -5,17 +5,21 @@ permalink: /docs/designer-model/
 
 ### Text box two-ways binding to SharePoint column
 
- <b>[Knockout](http://knockoutjs.com/documentation/textinput-binding.html)</b>
+<b>[Knockout](http://knockoutjs.com/documentation/textinput-binding.html)</b> gives the following description for two-ways binding:  the <code>textInput<code> binding links a text box <code>input</code> or text area <code>textarea</code> with a viewmodel property, providing two-way updates between the viewmodel property and the element’s value. Unlike the <code>value</code> binding,<code>textInput</code> provides instant updates from the DOM for all types of user input, including autocomplete, drag-and-drop, and clipboard events.
+<br/>
+SPA Forms runtime provides binding extension to associate SharePoint columns with viewmodel property. SharePoint default content type on List is known (registerd) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html)</b> to augment observables for SharePoint data association. 
+<br/>
+ 
 
 Add new <code>input</code> HTML control on SPA Form template and use <code>textInput</code> binding to <code>mytitle</code> member of SPA Form viewmodel. 
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
-Extend SPA Form viewmodel with new <code>mytitle</code> observable. New observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
+Extend SPA Form viewmodel with new <code>mytitle</code> property. New property is an observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
-Full code snipped for HTML Template
+Full code snippet for HTML Template
 ```html
 <!-- Template -->
 <div class="ms-Grid">
@@ -27,7 +31,7 @@ Full code snipped for HTML Template
     </div>
 </div>
 ```
-Full code snipped for Javascript model
+Full code snippet for Javascript model
 ```javascript
 /* ViewModel */
 define([ 'text!./viewmodel.html'], function( htmlString) {
