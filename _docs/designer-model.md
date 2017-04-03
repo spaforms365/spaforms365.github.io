@@ -24,7 +24,7 @@ define([ 'text!./viewmodel.html'], function( htmlString) {
 	  // +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
 	  this.mytitle = ko.observable().extend({ listItem: "Title" });
 	}
-	return { viewModel: viewModel, template: htmlString };
+    return { viewModel: viewModel, template: htmlString };
 });
 ```
 
