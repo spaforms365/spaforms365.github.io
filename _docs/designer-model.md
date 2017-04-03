@@ -20,9 +20,9 @@ You can now render the list of members in a template:
 
 ```javascript
 define([ 'text!./viewmodel.html'], function( htmlString) {
-	function viewModel(params) {
-		// +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
-		this.mytitle = ko.observable().extend({ listItem: "Title" });
+    function viewModel(params) {
+	  // +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
+	  this.mytitle = ko.observable().extend({ listItem: "Title" });
 	}
 	return { viewModel: viewModel, template: htmlString };
 });
