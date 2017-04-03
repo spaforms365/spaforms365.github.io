@@ -15,7 +15,7 @@ Add new <code>input</code> HTML control on SPA Form template and use <code>textI
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
-Add <code>mytitle</code> property to SPA Form viewmodel. New property is an observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
+Add <code>mytitle</code> property to SPA Form viewmodel. New property is an observable <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column:
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
@@ -42,4 +42,9 @@ define([ 'text!./viewmodel.html'], function( htmlString) {
     return { viewModel: viewModel, template: htmlString };
 });
 ```
+<br/>
+Result in action:
+![Image of Two-Way Binding](/img/form-gridediting.gif)
+<br/>
+
 
