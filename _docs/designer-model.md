@@ -3,19 +3,23 @@ title: Form Model
 permalink: /docs/designer-model/
 ---
 
-### Example: text box bound to SharePoint 
+### Text box (<input>) two-ways binding to SharePoint column value
 
-You can now render the list of members in a template:
+You can now render the [Knockout](http://knockoutjs.com/documentation/textinput-binding.html)
 
+Add new <code>input</code> HTML control on SPA Form template and use <code>textInput</code> binding to <code>mytitle</code> member of SPA Form viewmodel. 
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
 <br/>
+Extend SPA Form viewmodel with new <code>mytitle</code> observable. New observable is <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column.
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
 <br/>
+Full code snipped for HTML Template
 ```html
+<!-- Template -->
 <div class="ms-Grid">
     <div class="ms-Grid-row">
         <div class="ms-u-lg12 ms-u-md12 ms-u-sm12 ms-Grid-col">
@@ -26,7 +30,9 @@ this.mytitle = ko.observable().extend({ listItem: "Title" });
 </div>
 ```
 <br/>
+Full code snipped for Javascript model
 ```javascript
+/* ViewModel */
 define([ 'text!./viewmodel.html'], function( htmlString) {
     function viewModel(params) {
         // +++ EDIT MODEL BELOW TO DESIGN YOUR CUSTOM SPA FORM
