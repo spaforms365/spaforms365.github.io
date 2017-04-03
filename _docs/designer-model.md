@@ -42,7 +42,6 @@ define([ 'text!./viewmodel.html'], function( htmlString) {
     return { viewModel: viewModel, template: htmlString };
 });
 ```
-<br/>
 Result in action:
 ![Image of Two-Way Binding](/img/form-gridediting.gif)
 <br/>
