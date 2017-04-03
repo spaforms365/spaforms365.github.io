@@ -10,11 +10,11 @@ You can now render the list of members in a template:
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
-
+<br/>
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
-
+<br/>
 ```html
 <div class="ms-Grid">
     <div class="ms-Grid-row">
@@ -25,7 +25,7 @@ this.mytitle = ko.observable().extend({ listItem: "Title" });
     </div>
 </div>
 ```
-
+<br/>
 ```javascript
 define([ 'text!./viewmodel.html'], function( htmlString) {
     function viewModel(params) {
