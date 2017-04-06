@@ -50,16 +50,12 @@ To get help or support information, prress <code>Support</code> button located a
   </thead>
   <tbody>
     <tr>
-      <td>
-        <p class="name"><strong>Relative URL</strong></p>
-        <p>Prepend the <code>baseurl</code> value to the input. Useful if your site is hosted at a subpath rather than the root of the domain.</p>
-      </td>
       <td class="align-center">
+        <p class="name"><strong>Relative URL</strong></p>
+      </td>
+      <td >
         <p>
-         <code class="filter">{% raw %}{{ "/assets/style.css" | relative_url }}{% endraw %}</code>
-        </p>
-        <p>
-         <code class="output">/my-baseurl/assets/style.css</code>
+        <code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently <code>in focus</code>.         
         </p>
       </td>
     </tr>
