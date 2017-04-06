@@ -59,6 +59,46 @@ To get help or support information, prress <code>Support</code> button located a
         </p>
       </td>
     </tr>
+    <tr>
+      <td class="align-center">
+        <p class="name"><strong>Relative URL</strong></p>
+      </td>
+      <td >
+        <p>
+        To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks.         
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="align-center">
+        <p class="name"><strong>Relative URL</strong></p>
+      </td>
+      <td >
+        <p>
+        Current source for a whole component (including template, model and dependencies) can be saved as a new <code>version</code> into remote <code>GitHub</code> repository. Use <code>Version Control</code> button on Ribbon to access <code>Versions History</code> panel to manage component versions.          
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="align-center">
+        <p class="name"><strong>Relative URL</strong></p>
+      </td>
+      <td >
+        <p>
+        To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors.          
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="align-center">
+        <p class="name"><strong>Relative URL</strong></p>
+      </td>
+      <td >
+        <p>
+        To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon.          
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 </div>
