@@ -39,3 +39,30 @@ To remotely browse SPA Form project source folder on SharePoint server with Wind
   </p>
 </div>
 To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon. 
+
+<div class="mobile-side-scroller">
+<table>
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th><span class="filter">Filter</span> and <span class="output">Output</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p class="name"><strong>Relative URL</strong></p>
+        <p>Prepend the <code>baseurl</code> value to the input. Useful if your site is hosted at a subpath rather than the root of the domain.</p>
+      </td>
+      <td class="align-center">
+        <p>
+         <code class="filter">{% raw %}{{ "/assets/style.css" | relative_url }}{% endraw %}</code>
+        </p>
+        <p>
+         <code class="output">/my-baseurl/assets/style.css</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
