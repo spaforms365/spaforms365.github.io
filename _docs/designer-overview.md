@@ -44,8 +44,8 @@ To get help or support information, prress <code>Support</code> button located a
 <table>
   <thead>
     <tr>
-      <th>Description</th>
-      <th><span class="filter">Filter</span> and <span class="output">Output</span></th>
+      <th>RIBBON CONTROL</th>
+      <th><span class="filter">FUNCTIONAL</span> and <span class="output">DESCRIPTION</span></th>
     </tr>
   </thead>
   <tbody>
