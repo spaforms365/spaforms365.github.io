@@ -11,7 +11,7 @@ SPA Form is a hierarchy of <b>[Knockout components](http://knockoutjs.com/docume
 ### Designer Page
 Designer page's <code>TAB</code> shows <code>name</code> of the component. (For the Forms drawing surface that is a name of the root component in project hierarchy: the <code>VIEWMODEL</code>). Set of design controls are resiging on page's <code>ribbon</code>: 
 <br/>
-![Image of Designer Overview](/img/Ribbon.png)
+![Image of Ribbon](/img/Ribbon.png)
 
 ### Ribbon Controls
 ![Image of Editors](/img/Editors.png) To design and debug component, developer can use Ribbon to toggle up to 3 editors: <code>HTML Template</code>, <code>Javascript Model</code> and <code>HTML Layout</code>.    
