@@ -31,7 +31,7 @@ The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged 
 ![Image of Versions Control](/img/VersionsControl.png) Current source for a whole component (including template, model and dependencies) can be saved as a new <code>version</code> into remote <code>GitHub</code> repository. Use <code>Version Control</code> button on Ribbon to access <code>Versions History</code> panel to manage component versions. 
 <br/>
 <br/>
-To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors. 
+![Image of Versions Control](/img/Browse.png) To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors. 
 <div class="note warning">
   <h5>Explore Files works only with Internet Explorer.</h5>
   <p>
