@@ -9,8 +9,11 @@ SPA Forms 365 Designer is a multipage development environment, where <code>one p
 SPA Form is a hierarchy of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each component is a pair of HTML <code>Template</code> and Javascript <code>Model</code>. At runtime nested components are getting execution <code>parameters</code> from the project hierarchy and dynamically binding their Template/Model pairs into <code>MVVM runtime model</code>. 
 
 ### Designer Page
-Designer Page's TAB shows <code>name</code> of the component. (For the Forms drawing surface that is a name of the root component in project hierarchy: the <code>VIEWMODEL</code>). 
-### Ribbon
+Designer page's <code>TAB</code> shows <code>name</code> of the component. (For the Forms drawing surface that is a name of the root component in project hierarchy: the <code>VIEWMODEL</code>). Set of design controls are resiging on page's <code>ribbon</code>: 
+<br/>
+![Image of Designer Overview](/img/Ribbon.png)
+
+### Ribbon Controls
 ![Image of Editors](/img/Editors.png) To design and debug component, developer can use Ribbon to toggle up to 3 editors: <code>HTML Template</code>, <code>Javascript Model</code> and <code>HTML Layout</code>.    
 <br/>
 ![Image of Designer Overview](/img/form-designer3.gif)
