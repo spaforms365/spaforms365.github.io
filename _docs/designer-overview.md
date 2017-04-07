@@ -15,22 +15,22 @@ SPA Forms 365 Designer is a multipage development environment, where <code>one p
 <br/>
 The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged editors, powered with <b>[Ace code editor](https://ace.c9.io/#nav=about){:target="_blank"}</b>. These editors are matching features and performance of native editors such as Sublime, Vim and TextMate. 
 <br/>
-<br/>
+
 ![Image of Grid](/img/Grid.png) The <code>HTML Layout</code> represents MVVM model visualization at runtime and provides complimentary interactive visual editing support for HTML Template. The <code>Grid</code> button on Ribbon toggles <code>HTML Layout</code> editor between graphical design and visualization modes. 
 <br/>
-<br/>
+
 ![Image of Run](/img/Run.png) During development code changes are stored <code>in memory</code> and either automatically visualized at HTML Layout window or can be forceavable refreshed by clicking at <code>Run</code> button on Ribbon.
 <br/>
-<br/>
+
 ![Image of UndoRedo](/img/UndoRedo.png) <code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently <code>in focus</code>. 
 <br/>
-<br/>
+
 ![Image of Save](/img/Save.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
 <br/>
-<br/>
+
 ![Image of Versions Control](/img/VersionsControl.png) Current source for a whole component (including template, model and dependencies) can be saved as a new <code>version</code> into remote <code>GitHub</code> repository. Use <code>Version Control</code> button on Ribbon to access <code>Versions History</code> panel to manage component versions. 
 <br/>
-<br/>
+
 ![Image of Browse](/img/Browse.png) To remotely browse SPA Form project source folder on SharePoint server with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon. Then you can use any regular editor for code editing. Notepad++ or Visual Studio Code are recommended editors: you can close Windows Explorer window, but stay connected with these editors. 
 <div class="note warning">
   <h5>Explore Files works only with Internet Explorer.</h5>
