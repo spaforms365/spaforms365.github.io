@@ -1,4 +1,4 @@
 ---
-title: Components Overview
+title: Overview
 permalink: /docs/spa-components/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Single Page Application Overview
+title: Overview
 permalink: /docs/spa-overview/
 ---
