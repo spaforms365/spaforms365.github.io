@@ -29,9 +29,10 @@ Interactively dropped component instance immediately gets injected into hierarch
 <br/>
 <br/> 
 ![Image of Component HTML](/img/form-component-html.png)
+ 
+### Freestyle Editing HTML Template {#editingtemplate}
+Interactive visual design is good to quickly compose initial draft for template rendered by SPA Form component. HTML Template editor is convenient tool for further HTML template source code development. Changes made in code immediately gets visualized on HTML Layout: 
 <br/>
 <br/>
-Interactive visual design is good to quickly compose initial draft for template rendered by SPA Form component. HTML Template editor is convenient tool for further HTML template source code development. Changes made in code immediately gets visualized on HTML Layout:  
-### Editing Form HTML Template {#editingtemplate}
 ![Image of Placing HTML](/img/form-placinghtml.gif)
 
