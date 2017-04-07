@@ -42,7 +42,7 @@ define([ 'text!./viewmodel.html'], function( htmlString) {
 });
 ```
 Result in action:
-![Image of Two-Way Binding](/img/form-gridediting.gif)
+![Image of Two-Way Binding](/img/designer-model.gif)
 <br/>
 
 
