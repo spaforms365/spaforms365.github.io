@@ -40,7 +40,7 @@ To remotely browse SPA Form project source folder on SharePoint server with Wind
 </div>
 To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon. 
 
-<div class="mobile-side-scroller">
+<div class="mobile-side-scroller" style="display:none;">
 <table>
   <thead>
     <tr>
