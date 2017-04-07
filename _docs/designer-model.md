@@ -14,7 +14,7 @@ Add new <code>input</code> HTML control on SPA Form template and use <code>textI
 ```html
 <input type="text" data-bind="textInput: mytitle">
 ```
-Add <code>mytitle</code> property to SPA Form viewmodel. New property is an observable <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column:
+Add <code>mytitle</code> property to SPA Form viewmodel. New property is Knockout observable <code>extended</code> to <code>listItem</code> interface and bound to <code>Title</code> column:
 ```javascript
 this.mytitle = ko.observable().extend({ listItem: "Title" });
 ```
