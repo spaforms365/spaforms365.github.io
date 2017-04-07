@@ -9,8 +9,7 @@
 - title: Design Form
   docs:
   - designer-overview
-  - designer-layout  
-  - designer-content
+  - designer-template
   - designer-model
   - designer-syslibrary
   - designer-project
