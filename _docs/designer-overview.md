@@ -1,5 +1,5 @@
 ---
-title: Designer Overview
+title: Designer
 permalink: /docs/designer-overview/
 ---
 
