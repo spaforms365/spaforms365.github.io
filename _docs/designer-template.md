@@ -3,6 +3,7 @@ title: Form Template
 permalink: /docs/designer-template/
 ---
 
+SPA Forms promotes visual form design style. Interactively made design modifications are transparently rendered into SPA form project's source code.
 ### Layout
 SPA Form <code>content</code> visually organized and structured on top of suitable <code>layout</code>. SPA Form project is a hierarchy of components and <code>HTML Template</code> of the root (or underlying) component, usually represents <code>overall form layout</code>.
 <br/>
@@ -14,12 +15,9 @@ To maintain layout, HTML Template of the root component contains <code>responsiv
 <br/>
 Interactive configured changes getting immediately captured and reflected on source code for HTML template. The same works in opposite direction: any changes made in HTML source code of the template immediately getting rendered on layout.
 
-### Placing Content
-SPA Forms promotes visual form design style. Interactively made design modifications are transparently rendered into SPA form project source code.
+### Placing Content {#placingcomponents}
 
-### Placing SharePoint Columns and Components on Form {#placingcomponents}
-
-Developer interactively picks and places SharePoint list columns, library or custom components on drawing surface of the form. Columns and Components <code>picker panel</code> is accessible right from <code>target cell</code> on responsive grid. Selected group of components are droppable in bulk on target cell and can be re-arranged later between other cells on the grid. 
+Designer can interactively pick and place SharePoint list columns, library or custom components on drawing surface of the form. Columns and Components <code>picker panel</code> is accessible right from <code>target cell</code> on responsive grid. Selected group of components are droppable in bulk on target cell and can be re-arranged later between other cells on the grid. 
 <br/>
 <br/>
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
