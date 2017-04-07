@@ -16,9 +16,9 @@
 
 - title: Single Page Application
   docs:
-  - templates
+  - spa-overview
 
 - title: Components
   docs:
-  - extras
+  - spa-components
 
