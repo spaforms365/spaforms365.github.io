@@ -2,6 +2,7 @@
 title: Form Project
 permalink: /docs/designer-project/
 ---
+![Image of Ribbon-project](/img/Ribbon-project.png)
 
 <code>Development</code> version of SPA Form project is a set of source code files, residing in <code>Design</code> folder on SharePoint server. To remotely open Design folder with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon.
 <br/>
