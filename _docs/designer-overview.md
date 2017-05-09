@@ -38,7 +38,16 @@ The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged 
 <br/>
 
 ### Project Management Controls
-![Image of Save](/img/Save.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
+![Image of Open](/img/Open.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
+<br/>
+
+![Image of Components](/img/Components.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
+<br/>
+
+![Image of Publish](/img/Publish.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
+<br/>
+
+![Image of Upload](/img/Upload.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
 <br/>
 
 ![Image of Versions Control](/img/VersionsControl.png) Current source for a whole component (including template, model and dependencies) can be saved as a new <code>version</code> into remote <code>GitHub</code> repository. Use <code>Version Control</code> button on Ribbon to access <code>Versions History</code> panel to manage component versions. 
@@ -51,7 +60,11 @@ The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged 
     In the meantime only <code>Internet Explorer</code> enables remote connectivity feature. You may (recommended !) routinely use modern web browser (like Google Chrome or Microsoft Edge), and use Internet Explorer occasionally - just to open project source code folder in Windows Explorer.
   </p>
 </div>
+
 To get help or support information, prress <code>Support</code> button located at the right edge of the Ribbon. 
+![Image of Support](/img/Support.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
+<br/>
+
 
 <div class="mobile-side-scroller" style="display:none;">
 <table>
