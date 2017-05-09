@@ -18,12 +18,14 @@ Newly created SPA Form project contains the following 3 files in Design folder:
 SPA Forms Designer environment supports various aspects of SPA project management, such as initial setup, dependencies tracking, version control, import/export, etc.
 
 ###  Quick setup options for new SPA Form project {#projectinit}
+![Image of Setup Option](/img/form-setup-options.png)
 
 ###  Publishing {#projectpublishing}
 
 ###  Project import/export {#projectmigrations}
 
 ###  Components versioning {#componentsversioning}
+![Image of Form Versioning](/img/form-versioning.png)
 
 ###  Custom components management {#componentscustom}
 
