@@ -12,10 +12,10 @@ SPA Forms 365 Designer is a multipage development environment, where <code>one p
 
 
 ### Designer Page
-Template, Model and Layout of the component occupies major area on page, along with set of design controls residing on <code>ribbon</code>. All component-related areas on screenshot below are indicated  with <style='color:green'>green border</style>. 
+Template, Model and Layout of the component occupies major area on page, along with set of design controls residing on <code>ribbon</code>. All component-related areas on screenshot below are indicated  with <code class="option">green border</code>. 
 <br/>
 <br/>
-Along with <code>component management</code> controls, <code>ribbon</code> has set of controls for <code>SPA Form project</code> management. These groups of controls on screenshot are highlighted with <style='color:red'>red border</style> . 
+Along with <code>component management</code> controls, <code>ribbon</code> has set of controls for <code>SPA Form project</code> management. These groups of controls on screenshot are highlighted with <code class="flag">red border</code> . 
 ![Image of Designer Page](/img/designer-page2.png)
 
 ### Ribbon Controls
