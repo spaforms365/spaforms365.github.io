@@ -17,9 +17,10 @@ Template, Model and Layout of the component occupies major area on page, along w
 <br/>
 Along with <code>component management</code> controls, <code>ribbon</code> has set of controls for <code>SPA Form project</code> management. These groups of controls on screenshot are highlighted with <code class="project">red border</code> . 
 <br/>
+<br/>
 ![Image of Designer Page](/img/designer-page2.png)
 
-### Ribbon Controls
+### Component Management Controls
 ![Image of Editors](/img/Editors.png) To design and debug component, developer can use Ribbon to toggle up to 3 editors: <code>HTML Template</code>, <code>Javascript Model</code> and <code>HTML Layout</code>.    
 <br/>
 ![Image of Designer Overview](/img/form-designer3.gif)
@@ -36,6 +37,7 @@ The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged 
 ![Image of UndoRedo](/img/UndoRedo.png) <code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently <code>in focus</code>. 
 <br/>
 
+### Project Management Controls
 ![Image of Save](/img/Save.png) To save both: template and model on SharePoint server, press <code>Save</code> button on Ribbon at any time. That will also reset Undo/Redo changes stacks. 
 <br/>
 
