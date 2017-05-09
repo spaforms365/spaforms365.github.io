@@ -3,17 +3,19 @@ title: Designer
 permalink: /docs/designer-overview/
 ---
 
+SPA Form project is a hierarchy of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each component basically is a pair of HTML <code>Template</code> and Javascript <code>Model</code>. 
+<br/>
+At runtime every component receives execution <code>parameters</code> from the project and instanciates its Template/Model pair into <code>MVVM runtime model</code>. 
+<br/>
+<br/>
 SPA Forms 365 Designer is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> on hierarchy of SPA Form project. Each Designer page appears as an individual <code>TAB</code> on Ribbon.
-<br/>
-<br/>
-SPA Form is a hierarchy of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each component is a pair of HTML <code>Template</code> and Javascript <code>Model</code>. 
-<br/>
-At runtime every components receives execution <code>parameters</code> from the project and instanciates its Template/Model pair into <code>MVVM runtime model</code>. 
+
 
 ### Designer Page
-<code>Name</code> of the component shows as caption on Designer page's <code>TAB</code>. (For the Forms drawing surface that is a name of the root component in project hierarchy: the <code>VIEWMODEL</code>). Set of design controls are located on page's <code>ribbon</code>: 
+<code>Name</code> of a component is <code>caption</code> on Designer page's <code>TAB</code>. Template, Model and Layout of the component occupies major area on page, along with set of design controls residing on page <code>ribbon</code>. All component-related areas indicated on screenshot below with <style='color:green'>green border</style>. 
 <br/>
 <br/>
+(For the Forms drawing surface that is a name of the root component in project hierarchy: the <code>VIEWMODEL</code>).
 ![Image of Designer Page](/img/designer-page2.png)
 
 ### Ribbon Controls
