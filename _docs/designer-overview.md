@@ -8,9 +8,7 @@ SPA Form project is a hierarchy of <b>[Knockout components](http://knockoutjs.co
 At runtime every component receives execution <code>parameters</code> from the project and instanciates its Template/Model pair into <code>MVVM runtime model</code>. 
 <br/>
 <br/>
-SPA Forms 365 Designer is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> on hierarchy of SPA Form project. Each Designer page appears as individual <code>TAB</code> with Ribbon. Caption on tab shows <code>name</code> of a component.
-
-
+SPA Forms 365 Designer is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> on hierarchy of SPA Form project. Each Designer page appears as individual <code>TAB</code> with <code>ribbon</code>. Caption on tab shows <code>name</code> of a component.
 ### Designer Page
 Template, Model and Layout of the component occupies major area on page, along with set of design controls residing on <code>ribbon</code>. All component-related areas on screenshot below are indicated  with <code class="option">green border</code>. 
 <br/>
