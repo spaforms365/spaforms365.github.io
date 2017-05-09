@@ -829,8 +829,14 @@ th .output {
   color: #049DCE;
 }
 
+code.project,
+th .project{
+  color: #FF0000;
+}
+
 code.option,
 code.flag,
+code.project,
 code.filter,
 code.output {
   margin-bottom: 2px;
