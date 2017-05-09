@@ -11,8 +11,9 @@
   - designer-overview
   - designer-template
   - designer-model
-  - designer-syslibrary
   - designer-project
+  - designer-syslibrary
+
 
 - title: Single Page Application
   docs:

@@ -1,5 +1,5 @@
 ---
-title: Form Model
+title: Model
 permalink: /docs/designer-model/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Form Template
+title: Template
 permalink: /docs/designer-template/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Form Project
+title: Project
 permalink: /docs/designer-project/
 ---
 ![Image of Ribbon-project](/img/Ribbon-project.png)
