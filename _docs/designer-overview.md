@@ -25,7 +25,7 @@ The <code>HTML Template</code> & <code>Javascript Model</code> are full-fledged 
 ![Image of Grid](/img/Grid.png) The <code>HTML Layout</code> represents MVVM model visualization at runtime and provides complimentary interactive visual editing support for HTML Template. The <code>Grid</code> button on Ribbon toggles <code>HTML Layout</code> editor between graphical design and visualization modes. 
 <br/>
 
-![Image of Run](/img/Run.png) During development code changes are stored <code>in memory</code> and either automatically visualized at HTML Layout window or can be forceavable refreshed by clicking at <code>Run</code> button on Ribbon.
+![Image of Run](/img/Run.png) During development code changes are stored <code>in memory</code> and either automatically visualized at HTML Layout window or can be forcible refreshed using <code>Run</code> button on Ribbon.
 <br/>
 
 ![Image of UndoRedo](/img/UndoRedo.png) <code>Undo</code> and <code>Redo</code> buttons on Ribbon are shared between components's Template and Model and applied for an editor currently <code>in focus</code>. 
