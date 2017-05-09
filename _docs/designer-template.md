@@ -8,8 +8,13 @@ SPA Forms promotes visual form design style.
 <br/>
 Design modifications interactively made on form layout preview are immediately rendered into source code of HTML template. In reverse direction, updates made on template HTML source code are also immediately reflected on form layout preview.
 ### Form Layout
-SPA Form <code>content</code> visually organized and structured on top of suitable <code>layout</code>. SPA Form project is a hierarchy of components and <code>HTML Template</code> of the root (or underlying) component, usually represents <code>overall form layout</code>.
+Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchy of SPA Form project implements <code>form layout</code> for the whole project.
 <br/>
+<br/>
+To conveniently design form layout we can open side-by-side two windows on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
+<br/>
+<br/>
+![Image of Layout Ribbon](/img/form-ribbon-layout.png)
 <br/>
 To maintain layout, HTML Template of the root component contains <code>responsive grid</code> powered by Office UI Fabric. It is easy to create desired form layout with interactive visual builder on <code>HTML Layout</code> editor. 
 <br/>
