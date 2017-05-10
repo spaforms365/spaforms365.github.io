@@ -3,7 +3,7 @@ title: Designer
 permalink: /docs/designer-overview/
 ---
 
-<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each <code>component</code> basically is pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and produces instance of <code>MVVM runtime model</code>.
+<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each <code>component</code> basically is pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and it produces instance of <code>MVVM runtime model</code>.
 <br/>
 <br/>
 <code>SPA Forms 365 Designer</code> is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> of SPA Form project. Each Designer page appears as individual <code>TAB</code> with <code>ribbon</code>. Caption on tab shows <code>name</code> of a component.
