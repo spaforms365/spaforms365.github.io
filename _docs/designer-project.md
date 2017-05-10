@@ -7,8 +7,12 @@ permalink: /docs/designer-project/
 At runtime each component in project hierarchy instanciates its Template/Model pair into <code>MVVM runtime model</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
 <br/>
 
-###  Runtime (published) project
-In <code>production</code> SPA Form project is a single file <code>model.min.js</code>, residing at <code>/Form/Runtime</code> folder under SharePoint List file structure on server. Designer <b>[published](#projectpublishing)</b>all project source code into that single file in optimized & minified format. If end user interacts with out-of-box SharePoint List UI, the <code>SPA Forms runtime</code> launches <code>model.min.js</code> to create instance of Single Pade Application powering SPA Form.
+###  Published (runtime) project
+<code>Published</code> SPA Form project is a single file <code>model.min.js</code> located at <code>/Form/Runtime/</code> folder under SharePoint List file structure on <code>SharePoint server</code>. 
+Designer <b>[publishing](#projectpublishing)</b> operation copied all project source code into single file in optimized & minified format. 
+<br/>
+<br/>
+When user interacts with out-of-box SharePoint List UI, the <code>SPA Forms runtime</code> launches <code>model.min.js</code> to create instance of Single Pade Application powering SPA Form.
 ###  Design (development) project
 ![Image of Ribbon-project](/img/Ribbon-project.png)
 <br/>
