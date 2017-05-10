@@ -5,7 +5,7 @@ permalink: /docs/designer-template/
 <code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. 
 <br/>
 <br/>
-Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
+
 ### Form Layout
 Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
 <br/>
@@ -20,7 +20,7 @@ To implement layout, <code>HTML Template</code> of the root component contains m
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
 <br/>
-Interactive configured changes immediately gets converted into source code and reflected at <code>HTML template</code>. The same works in opposite direction: any changes made in HTML source code of the template immediately getting rendered on HTML Layout.
+Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
 
 ### Placing Content {#placingcomponents}
 
