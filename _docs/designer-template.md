@@ -15,7 +15,7 @@ To work on form layout, Designer enables two side-by-side panels: <code>HTML Lay
 <br/>
 ![Image of Layout Ribbon](/img/form-ribbon-layout.png)
 <br/>
-To implement layout, <code>HTML Template</code> of the root component contains markup for <code>responsive grid</code> powered by Office UI Fabric. It is easy to visually compose desired form layout using interactive builder on <code>HTML Layout</code> panel, when toggled into <code>Grid</code> mode: 
+To enable layout, <code>HTML Template</code> of the root component has <code>responsive grid</code> markup powered by <b>[Office UI Fabric](https://dev.office.com/fabric){:target="_blank"}</b>. Easiest way to configure desired form layout is <code>visual</code>, using interactive capabilities of <code>HTML Layout</code> panel, when toggled into <code>Grid</code> mode: 
 <br/>
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
