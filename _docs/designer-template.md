@@ -2,9 +2,15 @@
 title: Template
 permalink: /docs/designer-template/
 ---
-<code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. 
+<code>Template</code> is what you actually see, when open SPA Form. 
 <br/>
 <br/>
+<b>SPA Form's [knockout component](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b> needs both: template and model to build functionining MVVM runtime form. However in many practical use cases, you can leave model in initial state and customize only form template.
+<br/>
+<br/> 
+Basic template customization doesn't require software programming. Because <code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. Some limited knowledge of HTML markup may be needed to design professionally-looking forms.
+<br/>
+
 
 ### Form Layout
 <code>Content</code> on SPA Form organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
