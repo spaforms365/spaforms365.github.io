@@ -35,10 +35,7 @@ Visually composed design at <code>HTML Layout</code> form preview, immediately g
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
 <br/>
 <br/>
-SPA Forms 365 uses <b>[library](/docs/designer-syslibrary/#syscomponents)</b> of form components to render various types of SharePoint List columns on form layout.
-<br/>
-<br/> 
-![Image of Component HTML](/img/form-component-html.png)
+<code>SPA Forms 365 Designer</code> uses <b>[form components library](/docs/designer-syslibrary/#syscomponents)</b> to render various types of SharePoint List columns on SPA Form.
  
 ### Freestyle Editing HTML Template {#editingtemplate}
 Interactive visual design is good to quickly compose initial draft for template rendered by SPA Form component. HTML Template editor is convenient tool for further HTML template source code development. Changes made in code immediately gets visualized on HTML Layout: 
