@@ -11,7 +11,7 @@ Visually composed design at <code>HTML Layout</code> form preview, immediately g
 Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchy of SPA Form project implements <code>form layout</code> for the whole project.
 <br/>
 <br/>
-To conveniently design form layout we can open side-by-side two windows on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
+To conveniently design form layout we can open side-by-side two panels on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
 <br/>
 <br/>
 ![Image of Layout Ribbon](/img/form-ribbon-layout.png)
