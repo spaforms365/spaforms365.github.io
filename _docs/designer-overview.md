@@ -8,10 +8,10 @@ permalink: /docs/designer-overview/
 <br/>
 <code>SPA Forms 365 Designer</code> is a multipage development environment, where <code>one page</code> surfaces a <code>single component</code> at project. Each Designer page appears as individual <code>TAB</code> with <code>ribbon</code>. Caption on tab indicates component <code>name</code>.
 ### Designer Page
-Windows with component Template, Model and MVVM Layout editors occupied largest area on page, along with set of design controls residing on <code>ribbon</code>. All component-related areas on screenshot below are indicated  with <code class="option">green border</code>. 
+Windows with component Template, Model and MVVM Layout editors occupied largest area on page, along with set of design controls residing on <code>ribbon</code>. All component-related areas on screenshot below are outlined with <code class="option">green border</code>. 
 <br/>
 <br/>
-Along with <code>component management</code> controls, <code>ribbon</code> has set of controls for <code>SPA Form project</code> management. These groups of controls on screenshot are highlighted with <code class="project">red border</code> . 
+Along with <code>component management</code> controls, <code>ribbon</code> has set of controls for <code>SPA Form project</code> management. These groups of controls on screenshot are outlined with <code class="project">red border</code> . 
 <br/>
 <br/>
 ![Image of Designer Page](/img/designer-page2.png)
