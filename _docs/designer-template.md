@@ -39,7 +39,7 @@ Visually composed design at <code>HTML Layout</code> form preview, immediately g
  
 ### Direct HTML Template Markup Customization {#editingtemplate}
 
-Interactive visual design style is most productive approach to draft form template quickly. Further template customizations are possible via direct HTML markup editing at <code>HTML Template<code> panel. 
+Interactive visual design style is most productive approach to draft form template quickly. Further template customizations are possible via direct HTML markup editing at <code>HTML Template</code> panel. 
 <br/>
 <br/>
 You can insert static text, links, images, etc. - everything what HTML markup allows for developer. Changes made in HTML markup, immediately gets visialized at <code>HTML Layout</code> panel for review. 
