@@ -10,7 +10,7 @@ permalink: /docs/designer-template/
 <code>Content</code> on SPA Form organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
 <br/>
 <br/>
-To conveniently design form layout we may open side-by-side two panels on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
+To work on form layout, Designer enables two side-by-side panels: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
 <br/>
 <br/>
 ![Image of Layout Ribbon](/img/form-ribbon-layout.png)
