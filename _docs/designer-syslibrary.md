@@ -6,6 +6,11 @@ permalink: /docs/designer-syslibrary/
 
 ### System Components Library{#syscomponents}
 
+<br/>
+<br/> 
+![Image of Component HTML](/img/form-component-html.png)
+
+
 ### Custom Components
 Sometimes you may need either sligtly customize existing <code>system library component</code> or build your own new component from scratch. 
 <br/>
