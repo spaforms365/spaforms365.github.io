@@ -6,7 +6,7 @@ permalink: /docs/designer-template/
 SPA Forms promotes <code>visual</code> form design style. 
 <br/>
 <br/>
-Visually built design at <code>HTML Layout</code> form preview immediately gets converted into source code at <code>HTML template</code>. And vice-versa, changes at <code>HTML template</code> source code immediately gets visialized at <code>HTML Layout</code> form preview.
+Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
 ### Form Layout
 Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchy of SPA Form project implements <code>form layout</code> for the whole project.
 <br/>
