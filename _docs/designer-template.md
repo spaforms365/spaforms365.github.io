@@ -2,26 +2,25 @@
 title: Template
 permalink: /docs/designer-template/
 ---
-
-SPA Forms promotes <code>visual</code> form design style. 
+<code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. 
 <br/>
 <br/>
 Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
 ### Form Layout
-Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchy of SPA Form project implements <code>form layout</code> for the whole project.
+Overall form <code>content</code> usually organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
 <br/>
 <br/>
-To conveniently design form layout we can open side-by-side two panels on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
+To conveniently design form layout we may open side-by-side two panels on Designer page: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
 <br/>
 <br/>
 ![Image of Layout Ribbon](/img/form-ribbon-layout.png)
 <br/>
-To maintain layout, HTML Template of the root component contains <code>responsive grid</code> powered by Office UI Fabric. It is easy to create desired form layout with interactive visual builder on <code>HTML Layout</code> editor. 
+To implement layout, <code>HTML Template</code> of the root component contains markup for <code>responsive grid</code> powered by Office UI Fabric. It is easy to visually compose desired form layout using interactive builder on <code>HTML Layout</code> panel, when toggled into <code>Grid</code> mode: 
 <br/>
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
 <br/>
-Interactive configured changes getting immediately captured and reflected on source code for HTML template. The same works in opposite direction: any changes made in HTML source code of the template immediately getting rendered on layout.
+Interactive configured changes immediately gets converted into source code and reflected at <code>HTML template</code>. The same works in opposite direction: any changes made in HTML source code of the template immediately getting rendered on HTML Layout.
 
 ### Placing Content {#placingcomponents}
 
