@@ -24,7 +24,7 @@ Visually composed design at <code>HTML Layout</code> form preview, immediately g
 
 ### Placing SharePoint columns and components on layout {#placingcomponents}
 
-<code>Visual design style</code> is also convenient to place SharePoint columns and various other components on drawing surface of the form. <code>Columns and Components picker panel</code> can be accessed from any <code>target cell</code> on layout. Developer can select group of Sharepoint columns and/or components on picker panel and drop it into target cell. Each dropped component can be re-arranged later between other cells on layout responsive grid: 
+<code>Visual design style</code> is also convenient to place <code>SharePoint columns</code> and various components on drawing surface of the form. <code>Columns and Components Picker panel</code> can be launched from any <code>target cell</code> on layout. Then selected group of Sharepoint columns and/or components can be dropped into target cell. Each dropped component in the group can be re-arranged later between other cells on layout responsive grid: 
 <br/>
 <br/>
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
