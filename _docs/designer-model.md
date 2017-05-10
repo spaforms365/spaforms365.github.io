@@ -16,8 +16,14 @@ Changes in code can be immediately visualized on <code>HTML Layout</code> panel.
 <br/> 
 ![Image of Ribbon Model](/img/form-ribbon-model.png)
 <br/>
+### SPA Forms Runtime Support for Models
+<code>SPA Forms Runtime</code> extends <code>Knockout</code> via various binding extensions. Complete list of extensions is available at "plase hyperlink here".
 <br/>
-SPA Forms runtime provides binding extension to associate SharePoint columns with viewmodel property. SharePoint default content type on List is known (registered) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html){:target="_blank"}</b> to augment observables for SharePoint data associations. 
+<br/>
+One of the <code>SPA Forms Runtime</code> binding extensions allows to associate SharePoint columns with viewmodel properties. SharePoint default content type on List is known (registered) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html){:target="_blank"}</b> to augment observables for SharePoint data associations. 
+<br/>
+<br/>
+Lets will review use of that extension at practical model development exercize below:
 
 ### Example: Two-ways binding to SharePoint column {#twowaybinding}
 
