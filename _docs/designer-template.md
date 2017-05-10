@@ -15,10 +15,12 @@ To work on form layout, Designer enables two side-by-side panels: <code>HTML Lay
 <br/>
 ![Image of Layout Ribbon](/img/form-ribbon-layout.png)
 <br/>
+<br/>
 To enable layout, <code>HTML Template</code> of the root component has <code>responsive grid</code> markup powered by <b>[Office UI Fabric](https://dev.office.com/fabric){:target="_blank"}</b>. Easiest way to configure desired form layout is <code>visual</code>, using interactive capabilities of <code>HTML Layout</code> panel, when toggled into <code>Grid</code> mode: 
 <br/>
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
+<br/>
 <br/>
 Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
 
