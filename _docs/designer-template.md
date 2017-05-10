@@ -13,7 +13,7 @@ Basic template customization doesn't require software programming. Because <code
 
 
 ### Form Layout
-<code>Content</code> on SPA Form organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
+<code>Content</code> on SPA Form is organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
 <br/>
 <br/>
 To work on form layout, Designer enables two side-by-side panels: <code>HTML Layout</code> in <code>Grid</code> mode and <code>HTML Template</code>: 
@@ -32,10 +32,10 @@ Visually composed design at <code>HTML Layout</code> form preview, immediately g
 
 ### Placing SharePoint Columns and Components on Layout {#placingcomponents}
 
-<code>Visual design style</code> is also convenient to place <code>SharePoint columns</code> and various components on drawing surface of the form. 
+<code>Visual design style</code> is also efficient option to place <code>SharePoint columns</code> and various components on drawing surface of the form. 
 <br/>
 <br/>
-<code>Columns and Components Picker panel</code> can be launched from any <code>target cell</code> on layout. Then selected group of Sharepoint columns and/or components can be <code>placed</code> into target cell. Each placed component in the group can be re-arranged later between other cells on layout responsive grid: 
+<code>Columns and Components Picker panel</code> can be launched from any <code>target cell</code> on layout. Then selected group of Sharepoint columns and/or Form components can be <code>placed</code> into target cell. Each placed component in the group can be re-arranged later between other cells on layout responsive grid: 
 <br/>
 <br/>
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
