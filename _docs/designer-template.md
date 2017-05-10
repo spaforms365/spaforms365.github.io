@@ -22,7 +22,7 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 <br/>
 Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
 
-### Placing SharePoint columns and form components {#placingcomponents}
+### Placing SharePoint columns and Form components on layout{#placingcomponents}
 
 Visual design style is also convenient to place SharePoint columns and various other components on drawing surface of the form. <code>Columns and Components picker panel</code> can be accessed from any <code>target cell</code> of layout responsive grid. Selected group of components are droppable in bulk on target cell and later can be re-arranged between other cells on the grid. 
 <br/>
