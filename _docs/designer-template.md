@@ -30,7 +30,7 @@ Visual design style is also convenient to place SharePoint columns and various o
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
 <br/>
 <br/>
-Interactively dropped component instance immediately gets injected into hierarchy of the SPA project. Columns and Components picker panel <code>dynamically matches</code> selected SharePoint Column properties and metadata-defined interface at Knockout component to determine <code>params values</code> needed to call <code>component instance</code>:
+SPA Forms 365 uses <b>[library](/docs/designer-syslibrary/#syscomponents)</b> of form components to render various types of SharePoint List columns on form layout.
 <br/>
 <br/> 
 ![Image of Component HTML](/img/form-component-html.png)
