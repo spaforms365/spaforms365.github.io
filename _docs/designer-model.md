@@ -2,8 +2,21 @@
 title: Model
 permalink: /docs/designer-model/
 ---
-![Image of Ribbon Model](/img/form-ribbon-model.png)
+<code>Model</code> is responsive for SPA Form operations and behaviors. 
+<br/>
+<br/>
+On practice, complete SPA Form project lays on many (collection) of components and most of them are <b>[form library components](/docs/designer-syslibrary/#syscomponents)</b>. Often you will need to design model for only one (root) component in your project. 
 
+### Designer tools for component development
+To on component <code/>source code<code>, Designer enables two side-by-side panels: <code>HTML Template</code> and <code>JS Model</code>.  These two areas on screenshot below are outlined under <code class="option">green border</code>.
+<br/>
+<br/>
+Changes in code can be immediately visualized on <code>HTML Layout</code> panel. Template code changes at <code>HTML Template</code> are automatically rendered and Model code changes can be seen using <code>Run</code> button. These mentioned controls on screenshot below are outlined under <code class="project">red border</code> . 
+<br/>
+<br/> 
+![Image of Ribbon Model](/img/form-ribbon-model.png)
+<br/>
+<br/>
 SPA Forms runtime provides binding extension to associate SharePoint columns with viewmodel property. SharePoint default content type on List is known (registered) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html){:target="_blank"}</b> to augment observables for SharePoint data associations. 
 
 ### Example: Two-ways binding to SharePoint column {#twowaybinding}
