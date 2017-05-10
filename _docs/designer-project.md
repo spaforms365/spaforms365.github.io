@@ -9,7 +9,7 @@ At runtime each component in project hierarchy instanciates its Template/Model p
 
 ###  Published (runtime) project
 <code>Published</code> SPA Form project is a single file <code>model.min.js</code> located at <code>/Form/Runtime/</code> folder under SharePoint List file structure on <code>SharePoint server</code>. 
-Designer <b>[publishing](#projectpublishing)</b> operation copied all project source code into single file in optimized & minified format. 
+<code>SPA Forms 365 Designer</code> <b>[publishing](#projectpublishing)</b> operation copied all project source code into single file in optimized & minified format. 
 <br/>
 <br/>
 When user interacts with out-of-box SharePoint List UI, the <code>SPA Forms runtime</code> launches <code>model.min.js</code> to create instance of Single Pade Application powering SPA Form.
