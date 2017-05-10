@@ -2,10 +2,10 @@
 title: Model
 permalink: /docs/designer-model/
 ---
-<code>Model</code> is responsive for SPA Form operations and behaviors. 
+<code>Model</code> implements SPA Form operations and behaviors at runtime. 
 <br/>
 <br/>
-On practice, complete SPA Form project lays on many (collection) of components and most of them are <b>[form library components](/docs/designer-syslibrary/#syscomponents)</b>. Often you will need to design model for only one (root) component in your project. 
+On practice, overall SPA Form MVVM model uses collection of components, and most of them are <b>[library components](/docs/designer-syslibrary/#syscomponents)</b>. Quite often you will need to design model for only one (root) component in your project and just reuse many library-provided models. 
 
 ### Designer tools for component development
 To on component <code>source code</code>, Designer enables two side-by-side panels: <code>HTML Template</code> and <code>JS Model</code>.  These two areas on screenshot below are outlined under <code class="option">green border</code>.
@@ -17,7 +17,7 @@ Changes in code can be immediately visualized on <code>HTML Layout</code> panel.
 ![Image of Ribbon Model](/img/form-ribbon-model.png)
 <br/>
 ### SPA Forms Runtime Support for Models
-<code>SPA Forms Runtime</code> extends <code>Knockout</code> via various binding extensions. Complete list of extensions is available at "plase hyperlink here".
+<code>SPA Forms Runtime</code> extends <code>Knockout</code> via various binding extensions. Complete list of extensions is available at "place hyperlink here".
 <br/>
 <br/>
 One of the <code>SPA Forms Runtime</code> binding extensions allows to associate SharePoint columns with viewmodel properties. SharePoint default content type on List is known (registered) as <code>listItem</code> interface at SPA Forms runtime. The runtime implements an <b>[extender](http://knockoutjs.com/documentation/extenders.html){:target="_blank"}</b> to augment observables for SharePoint data associations. 
