@@ -26,9 +26,12 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 <br/>
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
-<br/>
-<br/>
-Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
+<div class="note">
+  <h5>ProTip™: HTML Layout and HTML Template are always in sync</h5>
+  <p>
+    Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
+  </p>
+</div>
 
 ### Placing SharePoint Columns and Components on Layout {#placingcomponents}
 
