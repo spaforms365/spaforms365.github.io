@@ -58,4 +58,10 @@ You can insert static text, links, images, etc. - everything what HTML markup al
 <br/>
 <br/>
 ![Image of Placing HTML](/img/form-placinghtml.gif)
+<div class="note">
+  <h5>ProTip™: Any HTML markup features are allowed on template !</h5>
+  <p>
+    You can insert static text, links, images, etc. - everything what HTML markup allows for developer. Changes made in HTML markup, are immediately passed into <code>HTML Layout</code> panel, enabling ad-hock visual feedback. 
+  </p>
+</div>
 
