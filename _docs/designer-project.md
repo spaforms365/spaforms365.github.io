@@ -36,7 +36,7 @@ SPA Forms Designer environment supports various aspects of SPA project managemen
 
 <br/>
 <code>SPA Forms 365 Designer</code> <b>[publishing](#projectpublishing)</b> operation copies all project source code  in optimized & minified format into single file, located at <code>/Form/Runtime/</code> folder under SharePoint List file structure on <code>SharePoint server</code>.
-![Image of Form Versioning](/img/form-publish.png)
+![Image of Form Publishing](/img/form-publish.png)
 
 ###  Project import/export {#projectmigrations}
 
