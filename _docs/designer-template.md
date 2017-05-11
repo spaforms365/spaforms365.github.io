@@ -6,12 +6,12 @@ permalink: /docs/designer-template/
 <br/>
 <br/>
 <b>SPA Form's [knockout component](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b> needs both: template and model to build functionining MVVM runtime form. However in many practical use cases, you can leave model in initial state and customize only form template.
-<br/>
-<br/> 
-Basic template customization doesn't require software programming. Because <code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. Some limited knowledge of HTML markup may be needed to design professionally-looking forms.
-<br/>
-
-
+<div class="note">
+  <h5>ProTip™: Coding may not needed to build working SPA Form</h5>
+  <p>
+    Basic template customization doesn't require software programming. Because <code>SPA Forms 365 Designer</code> promotes <code>visual</code> form design style. Some limited knowledge of HTML markup may be needed to design professionally-looking forms.
+  </p>
+</div>
 ### Form Layout
 <code>Content</code> on SPA Form is organized and structured on top of suitable <code>layout</code>. <code>HTML Template</code> of the root (or underlying) component at hierarchical structure of SPA Form project, provides <code>layout</code> for the whole project.
 <br/>
