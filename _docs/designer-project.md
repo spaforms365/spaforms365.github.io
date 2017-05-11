@@ -14,22 +14,18 @@ At runtime, all components on project hierarchy <code>instanciates</code> their 
 <br/>
 When user interacts with out-of-box SharePoint List UI, <code>SPA Forms runtime</code> launches <code>model.min.js</code> to instanciate Single Pade Application powering SPA Form.
 ###  Design (development) project
-SPA Form project at <code>design time</code> is a set of component's source code files and <code>project.js</code> file. Important information needed to make SPA Form project portable is contained in <code>project.js</code>. 
+SPA Form project at <code>design time</code> is a set of component's source code files and <code>project.js</code> file. Important information needed to make SPA Form project <code>portable</code> is contained in <code>project.js</code>. 
 <br/>
 <br/>
 Normally at design-time all project's source code files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
 <br/>
 <br/>
+There are two groups of controls on Designer Page's ribbon groups for overall <code>SPA Form project</code> management. These two groups outlined on screenshot below under <code class="project">red border</code>. Controls at <code>Project</code> group to manage project inside of <code>local storage</code> and controls at <code>Source Code</code> group to communicate with <code>remote repositories</code>.
+<br/>
+<br/>
 ![Image of Ribbon-project](/img/Ribbon-project.png)
 <br/>
 <br/>
-<code>Development</code> version of SPA Form project is a set of source code files, residing in <code>Design</code> folder on SharePoint server. To remotely open Design folder with Windows Explorer on your local computer use <code>Explore Files</code> button on Ribbon.
-<br/>
-<br/>
-Newly created SPA Form project contains the following 3 files in Design folder: 
-* <code>project.js</code> - automatically managed by SPA Forms Designer. The file contains registration info for custom components and project external dependencies - like SharePoint columns or workflow definitions.
-* <code>viewmodel.html</code> - HTML <code>template</code> for Knockout root component at SPA Form project hierarchy.
-* <code>viewmodel.js</code> - Javascript <code>model</code> for Knockout root component.
 
 SPA Forms Designer environment supports various aspects of SPA project management, such as initial setup, dependencies tracking, version control, import/export, etc.
 
