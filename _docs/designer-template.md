@@ -26,7 +26,7 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 <br/>
 <br/>
 ![Image of Grid Editing](/img/form-gridediting.gif)
-<div class="note">
+<div class="note info">
   <h5>ProTip™: HTML Layout & Template panels are always in sync !</h5>
   <p>
     Visually composed design at <code>HTML Layout</code> form preview, immediately gets converted into source code at <code>HTML template</code>. And vice-versa: changes made with <code>HTML template</code> source code, immediately gets visialized at <code>HTML Layout</code> form preview.
@@ -42,7 +42,7 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 <br/>
 <br/>
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
-<div class="note">
+<div class="note info">
   <h5>ProTip™: Your SPA Form is powered by system library components</h5>
   <p>
     <code>SPA Forms 365 Designer</code> uses <b>[form components library](/docs/designer-syslibrary/#syscomponents)</b> to render various types of SharePoint List columns on SPA Form.
