@@ -2,15 +2,13 @@
 title: Project
 permalink: /docs/designer-project/
 ---
-<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Inside of the project, components are organized into hierarchcal structures.
+<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Form Layout implemented by single (root) component and other [usually library] components are placed on top of the layout. organized into hierarchcal structures.
 <br/>
-At runtime each component in project hierarchy instanciates its Template/Model pair into <code>MVVM runtime model</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
+At runtime, all components on project hierarchy instanciates their source code Template/Model pairs into <code>MVVM runtime models</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
 <br/>
 
 ###  Published (runtime) project
-<code>Published</code> SPA Form project is a single file <code>model.min.js</code>. 
-<br/>
-<code>SPA Forms 365 Designer</code> <b>[publishing](#projectpublishing)</b> operation copies all project source code  in optimized & minified format into single file, located at <code>/Form/Runtime/</code> folder under SharePoint List file structure on <code>SharePoint server</code>.
+<code>Published</code> SPA Form project appears as a single file <code>model.min.js</code>. 
 <br/>
 <br/>
 When user interacts with out-of-box SharePoint List UI, <code>SPA Forms runtime</code> launches <code>model.min.js</code> to instanciate Single Pade Application powering SPA Form.
@@ -32,6 +30,10 @@ SPA Forms Designer environment supports various aspects of SPA project managemen
 ![Image of Setup Option](/img/form-setup-options.png)
 
 ###  Publishing {#projectpublishing}
+
+<br/>
+<code>SPA Forms 365 Designer</code> <b>[publishing](#projectpublishing)</b> operation copies all project source code  in optimized & minified format into single file, located at <code>/Form/Runtime/</code> folder under SharePoint List file structure on <code>SharePoint server</code>.
+
 
 ###  Project import/export {#projectmigrations}
 
