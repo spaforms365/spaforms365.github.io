@@ -2,9 +2,9 @@
 title: Project
 permalink: /docs/designer-project/
 ---
-<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Form Layout implemented by single (root) component and other [usually library] components are placed on top of the layout. organized into hierarchcal structures.
+<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. <code>Form layout</code> normally backed by single (root) component and <code>fiels on form</code> by [usually library] components placed on top of the layout.
 <br/>
-At runtime, all components on project hierarchy instanciates their source code Template/Model pairs into <code>MVVM runtime models</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
+At runtime, all components on project hierarchy <code>instanciates</code> their <code>template/model pairs</code> into <code>MVVM runtime models</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
 <br/>
 
 ###  Published (runtime) project
