@@ -14,12 +14,12 @@
   - designer-project
   - designer-syslibrary
 
+- title: Components
+  docs:
+  - spa-components
 
 - title: Single Page Application
   docs:
   - spa-overview
 
-- title: Components
-  docs:
-  - spa-components
 

@@ -6,7 +6,6 @@ permalink: /docs/designer-syslibrary/
 ### Components Library {#syscomponents}
 <code>Components Library</code> helps to render various SharePoint columns into <code>Form Fields</code> on <code>SPA Form Layout</code>. As illustrated below, if you pick SharePoint column by <code>name</code>, you also select specific <code>library component</code> compatible with Sharepoint column<code>data type</code>.
 <br/>
-<br/>
 Selected component will then render SharePoint data on SPA Form Layout and support user interactions. 
 <br/>
 <br/>  
