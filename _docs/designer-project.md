@@ -4,6 +4,7 @@ permalink: /docs/designer-project/
 ---
 <code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. <code>Form layout</code> normally backed by single (root) component and <code>fiels on form</code> by [usually library] components placed on top of the layout.
 <br/>
+<br/>
 At runtime, all components on project hierarchy <code>instanciates</code> their <code>template/model pairs</code> into <code>MVVM runtime models</code>. Altogether, these instances produces <code>Single Page Application</code> powering SPA Form.
 <br/>
 
@@ -16,7 +17,7 @@ When user interacts with out-of-box SharePoint List UI, <code>SPA Forms runtime<
 SPA Form project at <code>design time</code> is a set of components source code files and single <code>project.js</code> file.
 <br/>
 <br/>
-Normally at design-time all source code project files are permanently stored in your web browser's <code>local storage</code>, on your computer's hard drive. Additionally you can save source code at <code>remote repositories</code>: on SharePoint server or on GitHub.
+Normally at design-time all source code project files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
 <br/>
 <br/>
 ![Image of Ribbon-project](/img/Ribbon-project.png)
