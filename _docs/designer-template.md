@@ -54,9 +54,6 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 Interactive visual design style is most productive approach to draft form template quickly. Further template customizations are possible via direct HTML markup editing at <code>HTML Template</code> panel. 
 <br/>
 <br/>
-You can insert static text, links, images, etc. - everything what HTML markup allows for developer. Changes made in HTML markup, are immediately passed into <code>HTML Layout</code> panel, enabling ad-hock visual feedback. 
-<br/>
-<br/>
 ![Image of Placing HTML](/img/form-placinghtml.gif)
 <div class="note">
   <h5>ProTip™: Any HTML markup features are allowed on template !</h5>
