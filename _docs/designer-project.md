@@ -41,7 +41,7 @@ SPA Forms Designer environment supports various aspects of SPA project managemen
 ###  Project import/export {#projectmigrations}
 
 ###  Components versioning {#componentsversioning}
-![Image of Form Versioning](/img/form-versioning.png)
+![Image of Form Versioning](/img/form-versions.png)
 
 ###  Custom components management {#componentscustom}
 
