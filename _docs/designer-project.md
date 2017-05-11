@@ -20,7 +20,7 @@ SPA Form project at <code>design time</code> is a set of component's source code
 Normally at design-time all project's source code files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
 <br/>
 <br/>
-There are two groups of controls on Designer Page's ribbon groups for overall <code>SPA Form project</code> management. These two groups outlined on screenshot below under <code class="project">red border</code>. Controls at <code>Project</code> group to manage project inside of <code>local storage</code> and controls at <code>Source Code</code> group to communicate with <code>remote repositories</code>.
+There are two groups of controls available on Designer Page's ribbon for overall <code>SPA Form project</code> management. These two groups outlined on screenshot below under <code class="project">red border</code>. Controls at <code>Project</code> group are to manage project inside of <code>local storage</code> and controls at <code>Source Code</code> group are to communicate with <code>remote repositories</code>.
 <br/>
 <br/>
 ![Image of Ribbon-project](/img/Ribbon-project.png)
