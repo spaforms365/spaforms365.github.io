@@ -42,9 +42,12 @@ To enable layout, <code>HTML Template</code> of the root component has <code>res
 <br/>
 <br/>
 ![Image of Placing Components](/img/form-placingcomponents2.gif)
-<br/>
-<br/>
-<code>SPA Forms 365 Designer</code> uses <b>[form components library](/docs/designer-syslibrary/#syscomponents)</b> to render various types of SharePoint List columns on SPA Form.
+<div class="note">
+  <h5>ProTip™: Your SPA Form is powered by system library components</h5>
+  <p>
+    <code>SPA Forms 365 Designer</code> uses <b>[form components library](/docs/designer-syslibrary/#syscomponents)</b> to render various types of SharePoint List columns on SPA Form.
+  </p>
+</div>
  
 ### Direct HTML Template Markup Customization {#editingtemplate}
 
