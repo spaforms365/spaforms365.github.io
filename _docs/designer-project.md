@@ -17,7 +17,7 @@ When user interacts with out-of-box SharePoint List UI, <code>SPA Forms runtime<
 SPA Form project at <code>design time</code> is a set of component's source code files and <code>project.js</code> file. Important information needed to make SPA Form project portable is contained in <code>project.js</code>. 
 <br/>
 <br/>
-Normally at design-time all source code project files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
+Normally at design-time all project's source code files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
 <br/>
 <br/>
 ![Image of Ribbon-project](/img/Ribbon-project.png)
