@@ -14,7 +14,7 @@ At runtime, all components on project hierarchy <code>instanciates</code> their 
 <br/>
 When user interacts with out-of-box SharePoint List UI, <code>SPA Forms runtime</code> launches <code>model.min.js</code> to instanciate Single Pade Application powering SPA Form.
 ###  Design (development) project
-SPA Form project at <code>design time</code> is a set of components source code files and single <code>project.js</code> file.
+SPA Form project at <code>design time</code> is a set of component's source code files and <code>project.js</code> file. Important information needed to make SPA Form project portable is contained in <code>project.js</code>. 
 <br/>
 <br/>
 Normally at design-time all source code project files are permanently stored in your web browser's <code>local storage</code>, on your computer's <code>hard drive</code>. Additionally you can copy source code to <code>remote repositories</code>: on SharePoint server or GitHub.
