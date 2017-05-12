@@ -16,8 +16,11 @@ To use a component you call it using HTML markup on caller's Template. A compone
     </div>
 </div>
 ```
-
-
+To easy compose SPA Form project using various components, <code>SPA Forms 365 Designer</code> promotes visual design style: 
+<br/>
+<br/>  
+![Image of Components](/img/form-components.gif)
+<br/>
 Each <code>component</code> basically is a pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and it produces instance of <code>MVVM runtime model</code>.
 <br/>
 <br/>
@@ -26,9 +29,6 @@ At a minimum, <code>SPA Form project</code>
 <code>Components Library</code> used to render various SharePoint columns into <code>Form Fields</code> on <code>SPA Form Layout</code>. As illustrated below, when you pick SharePoint column by <code>name</code>, you also select <code>library component</code> mapped (compatible) to Sharepoint column's <code>data type</code>.
 <br/>
 Selected component then used to render SharePoint data on SPA Form Layout and provide interface for user interactions. 
-<br/>
-<br/>  
-![Image of Components](/img/form-components.gif)
 <div class="note">
   <h5>ProTip™: Access library component's source directly from Layout</h5>
   <p>
