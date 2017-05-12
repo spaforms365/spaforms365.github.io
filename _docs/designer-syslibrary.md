@@ -8,7 +8,7 @@ permalink: /docs/designer-syslibrary/
 To use a component you call it using <code>HTML markup<code> on caller's Template. Component has unique <code>name</code> on HTML markup and <code>calling parameters</code> listed under <code>params</code> attribute. 
 <br/>
 <br/>
-Code snippet below demonstrates <code>TEXTBOX</code> library component placed on SPA Form Layout and rendering <code>Title</code> SharePoint column : 
+Code snippet below demonstrates use of <code>TEXTBOX</code> library component placed on SPA Form Layout and rendering <code>Title</code> SharePoint column : 
 ```html
 <!-- Template -->
 <div class="ms-Grid">
