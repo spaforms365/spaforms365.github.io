@@ -5,7 +5,7 @@ permalink: /docs/designer-syslibrary/
 <code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. 
 <br/>
 <br/>
-To use a component you call it using <code>HTML markup<code> on caller's Template. Component has unique <code>name</code> on HTML markup and <code>calling parameters</code> listed under <code>params</code> attribute. 
+To use a component you call it using <code>HTML markup<code> on caller's <code>Template</code>. Component has unique <code>name</code> on HTML markup and set of <code>calling parameters</code> listed under <code>params</code> HTML attribute. 
 <br/>
 <br/>
 Code snippet below demonstrates use of <code>TEXTBOX</code> library component placed on SPA Form Layout and rendering <code>Title</code> SharePoint column : 
