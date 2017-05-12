@@ -19,7 +19,7 @@ Code snippet below demonstrates use of <code>TEXTBOX</code> library component pl
     </div>
 </div>
 ```
-To easy compose SPA Form project using various components, <code>SPA Forms 365 Designer</code> promotes visual design style: 
+To easily compose SPA Form project using various components, <code>SPA Forms 365 Designer</code> promotes visual design style: 
 <br/>
 <br/>  
 ![Image of Components](/img/form-components.gif)
