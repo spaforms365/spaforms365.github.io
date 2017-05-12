@@ -2,7 +2,21 @@
 title: Components
 permalink: /docs/designer-syslibrary/
 ---
-<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. Each <code>component</code> basically is a pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and it produces instance of <code>MVVM runtime model</code>.
+<code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. 
+<br/>
+<br/>
+To call a component we use HTML markup on caller's Template. Below is code example of <code>TEXTBOX</code> library component, rendering <code>Title SharePoint column</code> on SPA Form Layout: 
+```html
+<!-- Template -->
+<div class="ms-Grid">
+    <div class="ms-Grid-row">
+        <div class="ms-u-lg12 ms-u-md12 ms-u-sm12 ms-Grid-col">
+            <component-textbox id="4228f2e8-7d0c-4012-8a8b-ebd14e3b9335" params="'InternalName':'Title','Title':'Title','Description':'','MaxLength':255,'DefaultValue':null,'FieldTypeKind':2,'ReadOnlyField':false,'Required':true" class=""></component-textbox>
+        </div>
+    </div>
+</div>
+```
+Each <code>component</code> basically is a pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and it produces instance of <code>MVVM runtime model</code>.
 <br/>
 <br/>
 At a minimum, <code>SPA Form project</code> 
