@@ -36,8 +36,7 @@ Video below demontrates example of complete design experience with the following
 ![Image of Components](/img/form-components.gif)
 <br/>
 ### Components Library {#syscomponents}
-[Test.zip](https://github.com/spaforms365/addin/releases/download/test/test.zip)
-<br/>
+
 To render various <code>types</code> of SharePoint columns on form layout, SPA Form 365 Designer uses <code>library of components</code>. 
 <br/>
 <br/>
