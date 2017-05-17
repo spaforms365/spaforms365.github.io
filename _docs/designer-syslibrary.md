@@ -20,7 +20,7 @@ Code snippet below demonstrates use of <code>TEXTBOX</code> library component pl
 </div>
 ```
 ### Visual Design Style {#visualcomponents}
-To quickly construct SPA Form utilizing various library and custom components, <code>SPA Forms 365 Designer</code> promotes visual design style. 
+To quickly construct SPA Form utilizing various library and custom components, <code>SPA Forms 365 Designer</code> promotes visual design style. Thus HTML Markup on caller's Template can be created easy and error free.
 <br/>
 <br/>
 Video below demontrates example of complete design experience with the following visual design steps:
