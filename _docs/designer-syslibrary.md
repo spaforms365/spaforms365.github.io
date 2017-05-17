@@ -39,7 +39,7 @@ Video below demontrates example of complete design experience with the following
 Visually placed components are <code>fully configured</code> by <code>SPA Forms 365 Designer</code>. 
 <br/>
 <br/>
-However often a library component can be additionally tuned via it's <code>calling parameters</code>. Although component's calling parameters are <code>directly editable</code> at HTML Template panel, but is easier to configure calling parameters <code>visually</code>, as illustrated on video below:
+However often a library component can be additionally <code>customized</code> via it's <code>calling parameters</code>. Although component's calling parameters are <code>directly editable</code> at HTML Template panel, but it is easier to configure them <code>visually</code>, as illustrated on video below:
 <br/>
 <br/>
 ![Image of Call Parameters](/img/call_parameters1.gif)
