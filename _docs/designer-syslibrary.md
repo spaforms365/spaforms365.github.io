@@ -4,7 +4,7 @@ permalink: /docs/designer-syslibrary/
 ---
 <code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. 
 <br/>
-### Basic usage {#usecomponents}
+### Basic Usage {#usecomponents}
 To use a component you call it using <code>HTML markup</code> on caller's <code>Template</code>. Component has unique <code>tag</code> on HTML markup and set of <code>calling parameters</code> listed under <code>params</code> HTML attribute. 
 <br/>
 <br/>
@@ -19,7 +19,7 @@ Code snippet below demonstrates use of <code>TEXTBOX</code> library component pl
     </div>
 </div>
 ```
-### Visual design style {#visualcomponents}
+### Visual Design Style {#visualcomponents}
 To quickly construct SPA Form utilizing various library and custom components, <code>SPA Forms 365 Designer</code> promotes visual design style. 
 <br/>
 <br/>
