@@ -4,7 +4,6 @@ permalink: /docs/designer-syslibrary/
 ---
 <code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. 
 <br/>
-<br/>
 ### Basic usage {#usecomponents}
 To use a component you call it using <code>HTML markup</code> on caller's <code>Template</code>. Component has unique <code>tag</code> on HTML markup and set of <code>calling parameters</code> listed under <code>params</code> HTML attribute. 
 <br/>
@@ -33,13 +32,9 @@ Video below demontrates example of complete design experience with the following
 * [Step 6:](#step6) Repeat the same exercise for "buttons" library component.
 * [Step 7:](#step7) Turn off <code>Grid</code> mode on <code>HTML Layout</code> panel to preview final results.
 <br/>
-<br/>  
+ 
 ![Image of Components](/img/form-components.gif)
 <br/>
-Each <code>component</code> basically is a pair of HTML <code>Template</code> and Javascript <code>ViewModel</code>, and it produces instance of <code>MVVM runtime model</code>.
-<br/>
-<br/>
-At a minimum, <code>SPA Form project</code> 
 ### Components Library {#syscomponents}
 <code>Components Library</code> used to render various SharePoint columns into <code>Form Fields</code> on <code>SPA Form Layout</code>. As illustrated below, when you pick SharePoint column by <code>name</code>, you also select <code>library component</code> mapped (compatible) to Sharepoint column's <code>data type</code>.
 <br/>
