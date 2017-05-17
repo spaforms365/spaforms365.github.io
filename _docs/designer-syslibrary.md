@@ -36,8 +36,11 @@ Video below demontrates example of complete design experience with the following
 ![Image of Components](/img/form-components.gif)
 <br/>
 <br/>
+Visually placed components are <code>fully configured</code> by <code>SPA Forms 365 Designer</code>. However often a library component can be additionally tuned via it's <code>calling parameters</code>. Although component's calling parameters are directly editable at HTML Template panel, but SPA Forms 365 Designer again makes it easier with visual design style:
+<br/>
 ![Image of Call Parameters](/img/call_parameters1.gif)
 <br/>
+
 ### Components Library {#syscomponents}
 Working on form design <code>visually</code>, you are focused on <code>SharePoint columns</code> to place, but not <code>components</code>. However actually you are placing <code>rendering component</code>, suitable for SharePoint column's <code>data type</code> and <code>wiring</code> this component to the column. 
 <br/>
