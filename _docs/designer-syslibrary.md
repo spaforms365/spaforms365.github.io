@@ -5,6 +5,7 @@ permalink: /docs/designer-syslibrary/
 <code>SPA Form project</code> is a collection of <b>[Knockout components](http://knockoutjs.com/documentation/component-overview.html){:target="_blank"}</b>. 
 <br/>
 <br/>
+### Basic usage {#usecomponents}
 To use a component you call it using <code>HTML markup</code> on caller's <code>Template</code>. Component has unique <code>tag</code> on HTML markup and set of <code>calling parameters</code> listed under <code>params</code> HTML attribute. 
 <br/>
 <br/>
@@ -19,13 +20,17 @@ Code snippet below demonstrates use of <code>TEXTBOX</code> library component pl
     </div>
 </div>
 ```
-To quickly construct SPA Form utilizing various library and custom components, <code>SPA Forms 365 Designer</code> promotes visual design style. Video below demontrates example of complete design experience with the following visual design steps:
+### Visual design style {#visualcomponents}
+To quickly construct SPA Form utilizing various library and custom components, <code>SPA Forms 365 Designer</code> promotes visual design style. 
+<br/>
+<br/>
+Video below demontrates example of complete design experience with the following visual design steps:
 * [Step 1:](#step1) Turn <code>HTML Layout</code> panel into <code>Grid</code> mode.  
 * [Step 2:](#step2) On <code>target cell</code> at form layout, outlined under <code class="option">green border</code>, click <code>Add Components</code> control to launch <code>Columns & Components</code> picker panel.  
 * [Step 3:](#step3) On picker panel select SharePoint "Title" <code>column</code> along with (selectable) "textbox" column rendering <code>Form component</code> and <code>Place on Form</code>. 
-* [Step 4:](#step4) Repeat repeat similar exercise to place "buttons" <code>component</code>.
-* [Step 5:](#step5) Use <code>Edit Source</code> control to open "textbox" library component's<code>source code</code> in a new <code>Tab</code> at SPA Forms 365 Designer.
-* [Step 6:](#step6) Repeat the same for "buttons" library component.
+* [Step 4:](#step4) Repeat similar exercise to place "buttons" <code>component</code>.
+* [Step 5:](#step5) Use <code>Edit Source</code> control to open "textbox" library component's <code>source code</code> in a new <code>Tab</code> at <code>SPA Forms 365 Designer</code>.
+* [Step 6:](#step6) Repeat the same exercise for "buttons" library component.
 * [Step 7:](#step7) Turn off <code>Grid</code> mode on <code>HTML Layout</code> panel to preview final results.
 <br/>
 <br/>  
