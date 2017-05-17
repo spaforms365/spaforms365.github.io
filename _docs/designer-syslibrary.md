@@ -38,6 +38,12 @@ Video below demontrates example of complete design experience with the following
 ### Components Library {#syscomponents}
 [Test.zip](https://github.com/spaforms365/addin/releases/download/test/test.zip)
 <br/>
+To render various <code>types</code> of SharePoint columns on form layout, SPA Form 365 Designer uses <code>library of components</code>. 
+<br/>
+<br/>
+Working on form design <code>visually</code>, you are focused on <code>SharePoint columns</code> to place, but not <code>components</code>. However actually you are placing <code>rendering component</code>, suitable for SharePoint column's <code>data type</code> and <code>wiring</code> this component to the column. 
+<br/>
+<br/>
 <code>Components Library</code> used to render various SharePoint columns into <code>Form Fields</code> on <code>SPA Form Layout</code>. As illustrated below, when you pick SharePoint column by <code>name</code>, you also select <code>library component</code> mapped (compatible) to Sharepoint column's <code>data type</code>.
 <br/>
 Selected component then used to render SharePoint data on SPA Form Layout and provide interface for user interactions. 
