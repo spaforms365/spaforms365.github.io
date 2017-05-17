@@ -36,7 +36,7 @@ Video below demontrates example of complete design experience with the following
 ![Image of Components](/img/form-components.gif)
 <br/>
 ### Components Library {#syscomponents}
-![Test.txt](https://github.com/spaforms365/addin/blob/ce3ab517122e352f08cbba628daf60df0bd48612/test.txt)
+[Test.txt](https://github.com/spaforms365/addin/blob/ce3ab517122e352f08cbba628daf60df0bd48612/test.txt){:target="_blank"}
 <br/>
 <code>Components Library</code> used to render various SharePoint columns into <code>Form Fields</code> on <code>SPA Form Layout</code>. As illustrated below, when you pick SharePoint column by <code>name</code>, you also select <code>library component</code> mapped (compatible) to Sharepoint column's <code>data type</code>.
 <br/>
