@@ -58,7 +58,7 @@ Working on form design <code>visually</code>, you are focused on <code>SharePoin
 To render various <code>types</code> of SharePoint columns on form layout, <code>SPA Form 365 Designer</code> uses <code>library of components</code>. 
 <br/>
 <br/>
-Selected component then used to render SharePoint data on SPA Form Layout and provide interface for user interactions. 
+Selected component then used to visualize SharePoint data on SPA Form Layout and enable interface for user interactions. 
 <div class="note">
   <h5>ProTip™: Access library component's source directly from Layout</h5>
   <p>
