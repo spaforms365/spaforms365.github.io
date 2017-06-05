@@ -66,7 +66,7 @@ For quick start, we will initialize SPA Form project with <code> All SharePoint 
 </div>
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and show <code>Completed</code> message. 
 <br/>
-Now we are good to go and begin use newly created SPA Form. You can use few steps illustrated below, to open newly created form in runtime:
+Now we are good to go and start using newly created SPA Form. You can follow a few steps illustrated below, to open newly created form in runtime:
 <br/>
 <br/>
 ![Image of Published](/img/qs-exersize-3.png)
