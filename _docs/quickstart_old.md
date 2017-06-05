@@ -3,16 +3,28 @@ title: Quick-start guide
 permalink: /docs/quickstart/
 ---
 
-To get quick practical introduction into SPA Forms, let's will walk though a few minutes long training exersize: we will create SPA Form functinally equivalent to out-of-box SharePoint list forms.
+To get quick practical introduction into SPA Forms, let's will walk through a few minutes long training exersize, to create <code>custom SPA Form</code>, functionally equivalent to out-of-box SharePoint list forms.
 
 ## Ensure SPA Forms 365 Add-In is available
 
-Before begin working on exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. The <code>Add-In</code> is needed to install SPA Forms 365 feature on top of out-of-box SharePoint list.
+Before begin working on training exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. <code>Add-In</code> is neccessary to provision SPA Forms 365 feature on top of out-of-box SharePoint list.
 <br/>
 <br/>
-To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present. If you don't see the Add-In pictogram at Site Contents page: 
+<table>
+  <tr>
+    <td>
+      ![Image of AddIn](/img/logo-96.png)    
+    </td>
+    <td>
+      <p>
+To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present. If you don't see the Add-In pictogram at Site Contents page, then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In. 
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br/>
-![Image of AddIn](/img/logo-96.png)
+
 <br/>
 then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In.
 
