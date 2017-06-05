@@ -8,8 +8,6 @@ To get quick practical introduction into SPA Forms, let's will walk through a fe
 ## Ensure SPA Forms 365 Add-In is available
 
 Before begin working on training exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. <code>Add-In</code> is neccessary to provision SPA Forms 365 feature on top of out-of-box SharePoint list. 
-<br/>
-<br/>
 <table>
   <tr>
     <td>
@@ -22,8 +20,6 @@ To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site 
     </td>
   </tr>
 </table>
-<br/>
-<br/>
 If you don't see the Add-In pictogram at Site Contents page, then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In.
 
 ## Provision and configure SharePoint List
