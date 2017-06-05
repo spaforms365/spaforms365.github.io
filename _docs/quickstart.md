@@ -13,7 +13,7 @@ Before begin working on training exersize, we need to ensure that <code>SPA Form
 <table>
   <tr>
     <td>
-      ![Image of AddIn](/img/logo-96.png)    
+![Image of AddIn](/img/logo-96.png)    
     </td>
     <td>
       <p>
