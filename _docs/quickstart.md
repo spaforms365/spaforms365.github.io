@@ -31,9 +31,6 @@ Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at yo
 Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Click on SharePoint list's <code>new item</code> menu item and SPA Forms runtime will reply with warning message, that published SPA project was not found. Click on <code>Open Form Design project</code> link to open SPA Form designer.
 <br/>
 <br/>
-![Image of Design1](/img/SPAForms365Design1.png)
-<br/>
-<br/>
 ![Image of Design1](/img/qs-exersize-1.png)
 <br/>
 SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
@@ -49,7 +46,7 @@ SPA Forms designer will show simple custom default form as a starting point for 
 For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
 <br/> 
 <br/>
-![Image of Publishing](/img/form-publish.png)
+![Image of Publishing](/img/qs-exersize-2.png)
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
@@ -60,7 +57,7 @@ For quick start we won't proceed with any design modifications and will just pub
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
 <br/>
 <br/>
-![Image of Published](/img/form-published.png)
+![Image of Published](/img/qs-exersize-3.png)
 
 ## Good to go now: 
 
