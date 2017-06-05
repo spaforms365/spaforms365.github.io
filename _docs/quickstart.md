@@ -26,9 +26,8 @@ Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your Sha
     SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. <code>SPA Forms 365 Installer</code> will forcibly switch SharePoint list into <code>Classic experience</code> during SPA Forms 365 provisioning.
   </p>
 </div>
-<br/>
 <div class="note">
-  <h5>ProTip™: How to explicitly enable ribbon on list hosted on Office 365</h5>
+  <h5>ProTip™: How to enable ribbon for list hosted on Office 365</h5>
   <p>
     Open <code>Settings</code> page on your list and select <code>Advanced Settings</code> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
   </p>
