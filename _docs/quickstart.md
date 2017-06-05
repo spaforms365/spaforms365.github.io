@@ -25,12 +25,13 @@ If you don't see the Add-In pictogram at Site Contents page, then please stop at
 ## Provision and configure SharePoint List
 
 Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also choose existing list and/or extend list with custom columns, etc. 
-
-
-Provision SPA Forms 365 feature on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
+<br/>
+Having SharePoint list available, next step is to <code>provision<code> SPA Forms 365 feature on the list, as illustrated on the screenshot below:  
 <br/>
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
+<br/>
+Open <code>LIST</code> tab on ribbon at SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate SPA Form 365 product instance on the list.
 <div class="note warning">
   <h5>Note regarding SharePoint lists hosted on Office 365</h5>
   <p>
@@ -71,6 +72,7 @@ For quick start, we will initialize SPA Form project with <code> All SharePoint 
   </p>
 </div>
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and show <code>Completed</code> message. 
+<br/>
 <br/>
 Now we are good to go and start using newly created SPA Form. You can follow a few steps illustrated below, to open newly created form in runtime:
 <br/>
