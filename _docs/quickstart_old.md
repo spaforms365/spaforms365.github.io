@@ -3,11 +3,11 @@ title: Quick-start guide
 permalink: /docs/quickstart/
 ---
 
-As a quick practical introduction into SPA Forms, tet's will walk though a few minutes long training exersize: we will create SPA Form functinally equivalent to out-of-box SharePoint list forms.
+To get quick practical introduction into SPA Forms, let's will walk though a few minutes long training exersize: we will create SPA Form functinally equivalent to out-of-box SharePoint list forms.
 
 ## Ensure SPA Forms 365 Add-In is available
 
-Before begin working on exersize, we need to ensure that <code>SPA Forms 365 Installer</code> Add-In is avaliable on SharePoint web site. The <code>Add-In</code> is needed to install SPA Forms 365 feature on top of out-of-box SharePoint list.
+Before begin working on exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. The <code>Add-In</code> is needed to install SPA Forms 365 feature on top of out-of-box SharePoint list.
 <br/>
 <br/>
 To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present. If you don't see the Add-In pictogram at Site Contents page: 
@@ -21,7 +21,7 @@ then please stop at this point and follow [Installation](/docs/installation) ins
 Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also choose existing list and/or extend list with custom columns, etc. 
 
 
-Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
+Provision SPA Forms 365 feature on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
 <br/>
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
@@ -45,14 +45,14 @@ You can simply start by click on SharePoint list's <code>new item</code> menu it
 Steps shown on 3-pages screenshot above, moves you from out-of-box <code>List View</code> page, through unavailable yet <code>SFA Form at runtime</code> page, to open <code>SPA Form in Designer</code> page.
 <br/>
 <br/>
-Since we still don't have any SPA Form project setup yet, let's will use convinience hyperlink shown on <code>SPA Forms Designer</code> page to <code>create new project</code>, as illustrated on a screenshot below.
+Since we still don't have any SPA Form project setup yet, let's will use convinience hyperlink shown on <code>SPA Forms Designer</code> page to <code>create new project</code>, and move us forward: to the next screenshot below.
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
     SPA Forms designer can help quickly initialize newly created SPA project. Use <code>Open</code> button on ribbon to explore a few options to start with: <code>Empty Layout</code>, <code>Layout with all SharePoint List Columns</code> or <code>Layout imported from GitHub</code> initial designs.
   </p>
 </div>
-For quick start, we will initialize SPA Form project with <code> All SharePoint List Columns Layout</code> and publish it into runtime without any further customizations. To complete this task, just follow graphical guidance (arrows) on the 3-pages screenshot, and finally press <code>Publish</code> to complete:
+For quick start, we will initialize SPA Form project with <code> All SharePoint List Columns Layout</code> and publish it into runtime without any further customizations. To complete this task, just follow graphical guidance (arrows) on the 3-pages screenshot, and finally press <code>Publish</code> button to complete:
 <br/> 
 <br/>
 ![Image of Published](/img/qs-exersize-2.png)
@@ -66,8 +66,7 @@ For quick start, we will initialize SPA Form project with <code> All SharePoint 
 </div>
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and show <code>Completed</code> message. 
 <br/>
-<br/>
-Now we are good to go and begin use newly created SPA Form, as illustrated on the screenshot below:
+Now we are good to go and begin use newly created SPA Form. You can use few steps illustrated below, to open newly created form in runtime:
 <br/>
 <br/>
 ![Image of Published](/img/qs-exersize-3.png)
