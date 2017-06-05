@@ -73,6 +73,7 @@ Wait until SPA Forms designer will publish SPA form project into single minified
 <br/>
 <br/>
 ![Image of Published](/img/form-published.png)
+![Image of Published](/img/qs-exersize-3.png)
 
 ## Good to go now: 
 
