@@ -26,7 +26,7 @@ If you don't see the Add-In pictogram at Site Contents page, then please stop at
 
 Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also choose existing list and/or extend list with custom columns, etc. 
 <br/>
-Having SharePoint list available, next step is to <code>provision<code> SPA Forms 365 feature on the list, as illustrated on the screenshot below:  
+Having SharePoint list available, next step is to <code>provision</code> SPA Forms 365 feature on the list, as illustrated on the screenshot below:  
 <br/>
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
