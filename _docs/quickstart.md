@@ -17,16 +17,14 @@ Before begin working on training exersize, we need to ensure that <code>SPA Form
     </td>
     <td>
       <p>
-To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present. If you don't see the Add-In pictogram at Site Contents page, then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In. 
+To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present.  
       </p>
     </td>
   </tr>
 </table>
-
 <br/>
-
 <br/>
-then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In.
+If you don't see the Add-In pictogram at Site Contents page, then please stop at this point and follow [Installation](/docs/installation) instructions to deploy the Add-In.
 
 ## Provision and configure SharePoint List
 
