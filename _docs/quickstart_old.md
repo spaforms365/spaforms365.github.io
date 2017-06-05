@@ -3,14 +3,14 @@ title: Quick-start guide
 permalink: /docs/quickstart/
 ---
 
-Let's will walk though quick, a few minutes long training exersize below. We will create and provision form on SPA Form 365 technology, functinally equivalent to out-of-box SharePoint list forms.
+As a quick practical introduction into SPA Forms, tet's will walk though a few minutes long training exersize: we will create SPA Form functinally equivalent to out-of-box SharePoint list forms.
 
 ## Ensure SPA Forms 365 Add-In is available
 
-Before begin with exercize, we need to ensure that <code>SPA Forms 365 Installer</code> Add-In is avaliable on SharePoint site. The <code>Add-In</code> is needed to install SPA Forms 365 feature on top of out-of-box SharePoint list.
+Before begin working on exersize, we need to ensure that <code>SPA Forms 365 Installer</code> Add-In is avaliable on SharePoint web site. The <code>Add-In</code> is needed to install SPA Forms 365 feature on top of out-of-box SharePoint list.
 <br/>
 <br/>
-Go to <code>Site Contents</code> of your SharePoint site and verify that <code>SPA Forms 365 Installer</code> Add-In is present. If you don't see the Add-In pictogram at Site Contents page: 
+To verify Add-In, go to <code>Site Contents</code> page on your SharePoint site and check that <code>SPA Forms 365 Installer</code> pictogram is present. If you don't see the Add-In pictogram at Site Contents page: 
 <br/>
 ![Image of AddIn](/img/logo-96.png)
 <br/>
@@ -25,6 +25,12 @@ Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at yo
 <br/>
 <br/>
 ![Image of Installer](/img/SPSForms365Installer1.PNG)
+<div class="note warning">
+  <h5>Note regarding SharePoint lists hosted on Office 365</h5>
+  <p>
+    SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime SharePoint Online promotes <code>modern</code> UI experience on newly provisioned lists, with no ribbon exposed. List with <code>modern</code> UI provides menu item  on list toolbar to launch <code>SPA Forms 365 Installer</code>. To enable ribbon <code>SPA Forms 365 Installer</code> will forcibly switch SharePoint list into <code>Classic experience</code> during provisioning SPA Forms on the list.
+  </p>
+</div>
 
 ## Design and Publish custom SPA Form
 
