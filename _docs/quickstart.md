@@ -3,11 +3,14 @@ title: Quick-start guide
 permalink: /docs/quickstart/
 ---
 
-
+Let's will walk though quick, a few minutes long training exersize below. We will create and provision form on SPA Form 365 technology, functinally equivalent to out-of-box SharePoint list forms.
 
 ## Ensure SPA Forms 365 Add-in is available
 
-SPA Forms 365 Installer app must be added on SharePoint site before use with lists. To check if the app is available, go to <code>Site Contents</code> page on SharePoint site and verify that <code>SPA Forms 365 Installer</code> app is present. If you don't see the app pictogram at Site Contents page: 
+Before begin with exercize, we need to ensure that <code>SPA Forms 365 Installer</code> AddIn is avaliable on SharePoint site. The <code>AddIn</code> is needed to install SPA Forms 365 on top of out-of-box SharePoint list.
+<br/>
+<br/>
+To check if the app is available, go to <code>Site Contents</code> of your SharePoint site and verify that <code>SPA Forms 365 Installer</code> app is present. If you don't see the app pictogram at Site Contents page: 
 <br/>
 ![Image of AddIn](/img/logo-96.png)
 <br/>
