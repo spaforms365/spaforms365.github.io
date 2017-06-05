@@ -34,27 +34,29 @@ Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at yo
 
 ## Design and Publish custom SPA Form
 
-Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Upon activation SPA Form 365 feature on list, there are no ready to use SPA Form available yet. You can simply start by click on SharePoint list's <code>new item</code> menu item and SPA Forms will walk you through easy few-steps workflow to let you begin with form design:
+Unlike out-of-box SharePoint list forms, custom SPA Form must be designed and published before first use with list data. Upon activation SPA Form 365 feature on list, there is no ready to use SPA Form available yet. 
+<br/>
+<br/>
+You can simply start by click on SharePoint list's <code>new item</code> menu item and SPA Forms will walk you through easy few-steps workflow to let you begin with form design:
 <br/>
 <br/>
 ![Image of Design1](/img/qs-exersize-1.png)
 <br/>
-Steps shown on 3-pages screenshot above, moves you from out-of-box <code>List View</code> page, through unavailable yet <code>SFA Form at runtime</code> page, to <code>SPA Form in Designer</code> page.
+Steps shown on 3-pages screenshot above, moves you from out-of-box <code>List View</code> page, through unavailable yet <code>SFA Form at runtime</code> page, to open <code>SPA Form in Designer</code> page.
 <br/>
-SPA Forms designer will show simple custom default form as a starting point for further project development. Default custom form project has one field for out-of-box Title column and standard buttons on form.
+<br/>
+Since we still don't have any SPA Form project setup yet, let's will use convinience hyperlink shown on <code>SPA Forms Designer</code> page to <code>create new project</code>, as illustrated on a screenshot below.
 <div class="note">
   <h5>ProTip™: Quick initial design for new form project</h5>
   <p>
-    SPA Forms designer can help quickly initialize newly created SPA project. There are options to start with <code>Empty Layout</code>, <code>Layout with all SharePoint List Columns</code> or <code>Layout imported from GitHub</code> initial designs.
-    You should really
-    <a href="../templates/#code-snippet-highlighting">check out how to
-    do that</a> before you go any further.
+    SPA Forms designer can help quickly initialize newly created SPA project. Use <code>Open</code> button on ribbon to explore a few options to start with: <code>Empty Layout</code>, <code>Layout with all SharePoint List Columns</code> or <code>Layout imported from GitHub</code> initial designs.
   </p>
 </div>
-For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
+For quick start, we will initialize SPA Form project with <code> All SharePoint List Columns Layout</code> and publish it into runtime without any further customizations. To complete this task, just follow graphical guidance (arrows) on the 3-pages screenshot, and finally press <code>Publish</code> to complete:
 <br/> 
 <br/>
 ![Image of Published](/img/qs-exersize-2.png)
+<br/>
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
@@ -62,15 +64,14 @@ For quick start we won't proceed with any design modifications and will just pub
     <code>Microsoft IE-11</code> web browser can't support a few SPA Forms 365 UI features, including <code>Project Publishing</code>.
   </p>
 </div>
-Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
+Wait until SPA Forms designer will publish SPA form project into single minified runtime module and show <code>Completed</code> message. 
+<br/>
+<br/>
+Now we are good to go and begin use newly created SPA Form, as illustrated on the screenshot below:
 <br/>
 <br/>
 ![Image of Published](/img/qs-exersize-3.png)
-
-## Good to go now: 
-
-Click <code>new item</code> on SharePoint list and newly published custom SPA Form shell now open.
-
+<br/>
 
 ## Next steps
 
