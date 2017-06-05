@@ -7,13 +7,13 @@ To get quick practical introduction into SPA Forms, let's will walk through a fe
 
 ## Ensure SPA Forms 365 Add-In is available
 
-Before begin working on training exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. <code>Add-In</code> is neccessary to provision SPA Forms 365 feature on top of out-of-box SharePoint list.
+Before begin working on training exersize, we need to ensure that <code>SPA Forms 365 Installer Add-In</code> is avaliable on SharePoint web site. <code>Add-In</code> is neccessary to provision SPA Forms 365 feature on top of out-of-box SharePoint list. 
 <br/>
 <br/>
 <table>
   <tr>
     <td>
-![Image of AddIn](/img/logo-96.png)    
+      <img src="/img/logo-96.png"/>
     </td>
     <td>
       <p>
