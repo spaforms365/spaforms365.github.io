@@ -19,8 +19,20 @@ then please stop at this point and follow [Installation](/docs/installation) ins
 ## Provision and configure SharePoint List
 
 Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also choose existing list and/or extend list with custom columns, etc. 
-<br/>
-<br/>
+
+<div class="note warning">
+  <h5>Note regarding SharePoint lists hosted on Office 365</h5>
+  <p>
+    SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. <code>SPA Forms 365 Installer</code> will forcibly switch SharePoint list into <code>Classic experience</code> during SPA Forms 365 provisioning.
+  </p>
+</div>
+<div class="note">
+  <h5>ProTip™: How to enable ribbon for list hosted on Office 365</h5>
+  <p>
+    Open <code>Settings</code> page on your list and select <code>Advanced Settings</code> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
+  </p>
+</div>
+
 Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
 <br/>
 <br/>
