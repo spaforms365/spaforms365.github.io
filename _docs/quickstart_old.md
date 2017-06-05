@@ -20,18 +20,6 @@ then please stop at this point and follow [Installation](/docs/installation) ins
 
 Create new out-of-box <code>Custom</code> or <code>Tasks</code> list on your SharePoint web site. You may also choose existing list and/or extend list with custom columns, etc. 
 
-<div class="note warning">
-  <h5>Note regarding SharePoint lists hosted on Office 365</h5>
-  <p>
-    SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime ribbon is not available by default on newly provisioned lists at Office 365. <code>SPA Forms 365 Installer</code> will forcibly switch SharePoint list into <code>Classic experience</code> during SPA Forms 365 provisioning.
-  </p>
-</div>
-<div class="note">
-  <h5>ProTip™: How to enable ribbon for list hosted on Office 365</h5>
-  <p>
-    Open <code>Settings</code> page on your list and select <code>Advanced Settings</code> section. Scroll to the bottom of page and switch your list into <code>Classic experience</code>.
-  </p>
-</div>
 
 Provision SPA Forms 365 on your list. Open <code>LIST</code> tab on ribbon at your SharePoint list. Locate and press <code>SPA Forms 365</code> button to open SPA Forms 365 Installer dialog. Press <code>INSTALL</code> button to activate product instance on your list.
 <br/>
@@ -61,7 +49,7 @@ SPA Forms designer will show simple custom default form as a starting point for 
 For quick start we won't proceed with any design modifications and will just publish SPA form project 'as-is' into production. Press on <code>Publish</code> button on ribbon to open <code>Form Project</code> panel and next click on <code>Publish</code> button on the panel.
 <br/> 
 <br/>
-![Image of Publishing](/img/form-publish.png)
+![Image of Published](/img/qs-exersize-2.png)
 <div class="note warning">
   <h5>Important Web Browser Compatibility Note:</h5>
   <p>
@@ -72,7 +60,6 @@ For quick start we won't proceed with any design modifications and will just pub
 Wait until SPA Forms designer will publish SPA form project into single minified runtime module and press <code>Close</code> button to collapse panel. Next press <code>Close</code> button on ribbon to exit SPA Forms designer.
 <br/>
 <br/>
-![Image of Published](/img/form-published.png)
 ![Image of Published](/img/qs-exersize-3.png)
 
 ## Good to go now: 
