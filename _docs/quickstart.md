@@ -38,6 +38,7 @@ Open <code>LIST</code> tab on ribbon at SharePoint list. Locate and press <code>
     SPA Forms 365 UI requires ribbon feature enabled on SharePoint List. In the meantime SharePoint Online promotes <code>modern</code> UI experience on newly provisioned lists, with no ribbon exposed. List with <code>modern</code> UI provides menu item  on list toolbar to launch <code>SPA Forms 365 Installer</code>. To enable ribbon <code>SPA Forms 365 Installer</code> will forcibly switch SharePoint list into <code>Classic experience</code> during provisioning SPA Forms on the list.
   </p>
 </div>
+![Image of Modern](/img/form-deploy-modern.png)
 
 ## Design and Publish custom SPA Form
 
